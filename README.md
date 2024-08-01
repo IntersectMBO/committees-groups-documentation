@@ -1,15 +1,15 @@
+# Committees Overview
 
-**REMOVE**
-- the child repository MUST be named xxxx-committee-documentation, with no abbreviations
-- the child repository MUST be public
+[Budget Committee](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/gsGMUGjBGIwHbN0vrf7v/ "mention")
 
-# xxxx Committee Documentation
+[Civics Committee](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/5BQdZEh6JOGB8uosMGwD/ "mention")
 
-This repository stores the documentation for xxxx committee.
-This documentation is hosted (for reading) at [intersect.gitbook.io/xxxx-committee](https://intersect.gitbook.io/xxxx-committee).
+[Membership and Community Committee (MCC)](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/ZqouSToCJnFmpkx5WZw5/ "mention")
 
-## 🤝 Contributing
+[Open Source Committee](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/LBdnzp0eZpGri9sVpseI/ "mention")
 
-Thanks for considering contributing to xxxx committee documentation! 😎
+[Roadmap committee (proposed)](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/K7cBOo8O1BpQ2uwlq0BE/ "mention")
 
-Please checkout our [Contributing Documentation](./CONTRIBUTING.md).
+[Technical Steering Committee](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/Yzy77cQuAEYNjeNy3YrN/ "mention")
+
+[Parameter Committee](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/zVLTSzhSBVPLGReSGorb/ "mention") (Sub Committee of TSC)
