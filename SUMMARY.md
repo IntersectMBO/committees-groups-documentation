@@ -51,6 +51,7 @@
   * [Node, CLI and API](groups-overview/technical-working-groups/node-cli-and-api.md)
   * [Plutus](groups-overview/technical-working-groups/plutus.md)
   * [🐉 Hydra](groups-overview/technical-working-groups/hydra.md)
+  * [Partner Chains](groups-overview/technical-working-groups/partner-chains.md)
 * [Special Interest Groups](groups-overview/special-interest-groups/README.md)
   * [Transparency Special Interest Group](groups-overview/special-interest-groups/transparency-special-interest-group.md)
   * [Decentralized Education Interest Group](groups-overview/special-interest-groups/decentralized-education-interest-group.md)
