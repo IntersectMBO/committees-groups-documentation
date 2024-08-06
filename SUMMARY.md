@@ -24,7 +24,7 @@
 * [Groups Overview](groups-overview/groups-overview/README.md)
   * [Intersect Working Groups](groups-overview/groups-overview/intersect-working-groups.md)
   * [Technical Working Groups](groups-overview/groups-overview/technical-working-groups.md)
-  * [SIG](groups-overview/groups-overview/sig.md)
+  * [Special Interest Groups (SIGs)](groups-overview/groups-overview/special-interest-groups-sigs.md)
   * [Working Group Frequently Asked Questions (FAQs)](groups-overview/groups-overview/working-group-frequently-asked-questions-faqs.md)
 * [Working Groups](groups-overview/working-groups/README.md)
   * [Annual Members Meeting Design](groups-overview/working-groups/annual-members-meeting-design.md)
