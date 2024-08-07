@@ -4,9 +4,9 @@
 
 * [Committees Overview](README.md)
   * [Committee Maturity Framework](committee-overview/committees-overview/committee-maturity-framework.md)
-  * [Committee Communications](committee-overview/committees-overview/committee-communications.md)
   * [Committee Guiding Principles](committee-overview/committees-overview/committee-guiding-principles.md)
   * [Committee Reporting](committee-overview/committees-overview/committee-reporting.md)
+  * [Committee Communications](committee-overview/committees-overview/committee-communications.md)
   * [Committee Glossary of Terms](committee-overview/committees-overview/committee-glossary-of-terms.md)
 * [Intersect Committees](committee-overview/intersect-committees/README.md)
   * [MCC](committee-overview/intersect-committees/mcc.md)
