@@ -8,15 +8,7 @@
   * [Committee Reporting](committee-overview/committees-overview/committee-reporting.md)
   * [Committee Communications](committee-overview/committees-overview/committee-communications.md)
   * [Committee Glossary of Terms](committee-overview/committees-overview/committee-glossary-of-terms.md)
-* [Intersect Committees](committee-overview/intersect-committees/README.md)
-  * [MCC](committee-overview/intersect-committees/mcc.md)
-  * [OSC](committee-overview/intersect-committees/osc.md)
-  * [TSC](committee-overview/intersect-committees/tsc.md)
-  * [Civics](committee-overview/intersect-committees/civics.md)
-  * [Roadmap](committee-overview/intersect-committees/roadmap.md)
-  * [Budget](committee-overview/intersect-committees/budget.md)
-  * [Parameters](committee-overview/intersect-committees/parameters.md)
-  * [Exec/Intersect Steering](committee-overview/intersect-committees/exec-intersect-steering.md)
+  * [Committee Links](committee-overview/committees-overview/committee-links.md)
 
 ## Groups Overview
 
