@@ -1,5 +1,7 @@
 # Committees Overview
 
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 [Budget Committee](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/gsGMUGjBGIwHbN0vrf7v/ "mention")
 
 [Civics Committee](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/5BQdZEh6JOGB8uosMGwD/ "mention")
