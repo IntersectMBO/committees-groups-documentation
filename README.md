@@ -15,3 +15,7 @@
 [Technical Steering Committee](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/Yzy77cQuAEYNjeNy3YrN/ "mention")
 
 [Parameter Committee](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/zVLTSzhSBVPLGReSGorb/ "mention") (Sub Committee of TSC)
+
+
+
+[Committee Elections - 2024](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/PTouV0f6Si1oWdMQe9Cb/ "mention")
