@@ -9,6 +9,7 @@
   * [Committee Communications](committee-overview/committees-overview/committee-communications.md)
   * [Committee Glossary of Terms](committee-overview/committees-overview/committee-glossary-of-terms.md)
   * [Committee Links](committee-overview/committees-overview/committee-links.md)
+  * [Committee Contact Information](committee-overview/committees-overview/committee-contact-information.md)
 
 ## Groups Overview
 
