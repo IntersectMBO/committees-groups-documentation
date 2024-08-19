@@ -1,4 +1,4 @@
-# SIG
+# Special Interest Groups (SIGs)
 
 Intersect Special Interest Groups are a newer concept within Intersect. &#x20;
 
@@ -13,7 +13,7 @@ Special Interest Groups are:
 
 Anyone can request to be part of a Special Interest Group, you can contact them through their discord channel.   &#x20;
 
-A link to form a Special Interest Group will be posted here. (When Available)
+A link to form a Special Interest Group can be found [here](https://mpc.intersectmbo.org/sig-sign-up).
 
 Special Interest Group Guidelines and How-To:
 

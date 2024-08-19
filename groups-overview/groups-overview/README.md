@@ -85,7 +85,7 @@ Special Interest Groups are:
 
 Anyone can request to be part of a Special Interest Group, you can contact them through their discord channel.   &#x20;
 
-A link to form a Special Interest Group will be posted here. (When Available)
+A link to form a Special Interest Group can be found [here](https://mpc.intersectmbo.org/sig-sign-up).&#x20;
 
 Special Interest Group Guidelines and How-To:
 
