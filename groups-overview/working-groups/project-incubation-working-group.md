@@ -1,4 +1,14 @@
-# Open Source Project Incubation Working Group
+---
+description: >-
+  This working group builds off the foundation established by the Project
+  Framework WG.
+---
+
+# Project Incubation Working Group
+
+{% hint style="info" %}
+This WG falls under the Open Source Committee
+{% endhint %}
 
 ### Purpose/Goals
 

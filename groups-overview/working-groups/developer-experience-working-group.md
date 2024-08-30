@@ -1,7 +1,7 @@
 # Developer Experience Working Group
 
 {% hint style="info" %}
-This page is a holding page for this Working Group, more details will be published shortly.
+This WG falls under the Open Source Committee.
 {% endhint %}
 
 ## Purpose
