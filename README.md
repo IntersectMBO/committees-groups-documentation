@@ -1,21 +1,23 @@
 # Committees Overview
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Intersects Main Committees</p></figcaption></figure>
 
-[Budget Committee](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/gsGMUGjBGIwHbN0vrf7v/ "mention")
+**#Intersect Steering Committee (coming soon)**
 
-[Civics Committee](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/5BQdZEh6JOGB8uosMGwD/ "mention")
+[Intersect - Budget Committee](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/gsGMUGjBGIwHbN0vrf7v/ "mention")
 
-[Membership and Community Committee (MCC)](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/ZqouSToCJnFmpkx5WZw5/ "mention")
+[Intersect - Civics Committee](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/5BQdZEh6JOGB8uosMGwD/ "mention")
 
-[Open Source Committee](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/LBdnzp0eZpGri9sVpseI/ "mention")
+[Intersect-Membership and Community Committee (MCC)](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/ZqouSToCJnFmpkx5WZw5/ "mention")
 
-[Roadmap committee (proposed)](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/K7cBOo8O1BpQ2uwlq0BE/ "mention")
+[Intersect - Open Source Committee](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/LBdnzp0eZpGri9sVpseI/ "mention")
 
-[Technical Steering Committee](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/Yzy77cQuAEYNjeNy3YrN/ "mention")
+[Intersect -  Product committee](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/K7cBOo8O1BpQ2uwlq0BE/ "mention")
 
-[Parameter Committee](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/zVLTSzhSBVPLGReSGorb/ "mention") (Sub Committee of TSC)
+[Intersect - Technical Steering Committee](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/Yzy77cQuAEYNjeNy3YrN/ "mention")
+
+[Intersect - Parameter Committee](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/zVLTSzhSBVPLGReSGorb/ "mention") (Sub Committee of TSC)
 
 
 
-[Committee Elections - 2024](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/PTouV0f6Si1oWdMQe9Cb/ "mention")
+[Intersect elections - 2024](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/PTouV0f6Si1oWdMQe9Cb/ "mention")
