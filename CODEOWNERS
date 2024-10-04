@@ -1,4 +1,8 @@
-# xxxx Committee Documentation Project
+# Committees and Groups Documentation Codeowners
 
 # These owners will be the default owners for everything in the repository.
-* 
+*  @ranchhand87
+
+# General reviewers per PR
+#                          Tex          
+*                         @ranchhand87   

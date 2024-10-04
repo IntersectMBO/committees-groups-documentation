@@ -1,8 +1,8 @@
-# Contributing to the xxxx Committee documentation
+# Contributing to the Committees and Groups documentation
 
 ## Table of Contents
 
-- [Contributing to the xxxx Committee documentation](#contributing-to-the-xxxx-committee-documentation)
+- [Contributing to the Committees and Groups documentation](#contributing-to-the-committees-groups-documentation)
   - [Table of Contents](#table-of-contents)
   - [Code of Conduct](#code-of-conduct)
   - [Roles and Responsibilities](#roles-and-responsibilities)
@@ -30,7 +30,7 @@ Note that you might need to get approvals from all code owners (even though GitH
 ### Setup
 
 1. **Fork the repository:**
-   - Navigate to  https://github.com/xxxx/xxxx-committee-documentation
+   - Navigate to  https://github.com/IntersectMBO/committees-groups-documentation
    - Press the `Fork` button and make a fork of the repository.
 
 2. **Clone the fork:**
@@ -38,13 +38,13 @@ Note that you might need to get approvals from all code owners (even though GitH
    - Navigate to the directory where you want to store the project.
    - Run the following command to clone the repository:
      ```shell
-     git clone https://github.com/xxxx/xxxx-committee-documentation.git
+     git clone https://github.com/IntersectMBO/committees-groups-documentation
      ```
 
 3. **Navigate to the Project Directory:**
    - After cloning, change into the project's root directory:
      ```shell
-     cd xxxx-committee-documentation
+     cd committees-groups-documentation
      ```
 
 ### Make changes
