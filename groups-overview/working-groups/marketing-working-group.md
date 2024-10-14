@@ -1,50 +1,76 @@
 # Marketing Working Group
 
 {% hint style="info" %}
-This page is regularly updated
+Charter updated Oct. 2024
 {% endhint %}
 
-## Purpose / Goal
+### 1. Purpose/Goal  The Cardano Intersect Marketing Working Group (MWG) is dedicated to attracting, empowering and directing global marketing initiatives that promote the decentralization and growth of the Cardano ecosystem. By fostering community engagement and enhancing Cardano's brand presence, the MWG aims to drive Cardano's expansion across global markets, aligning with its core values of transparency and inclusivity.&#x20;
 
-Originally initiated by Intersect member [Anastasia Labs](https://anastasialabs.com/), led by [MLaden](https://twitter.com/MladenLm). The marketing working group kicked off their first meeting on May 3rd, starting with the proposed purpose and objectives by MLaden for the rest of the group to consider:
+### 2. Related committee
 
-### **Purpose**
+[Membership and Community Committee](https://docs.intersectmbo.org/intersect-overview/intersect-committees/membership-and-community-committee-mcc)
 
-* Strategically promote and amplify the value proposition of Cardano
-* Focused specifically on enhancing brand awareness, driving community engagement, and fostering partnerships that contribute to Cardano's growth and adoption.
+### 3. Structure and Leadership Roles
 
-### Objectives
+* MWG Lead (current: Nicodemus): Prepares the agenda and leads meetings. Ensures MWG deliverables are completed on time and aligned with the overseeing committee’s goals. Helps to identify group needs and delegate responsibilities / authorize initiatives as necessary. Finalizes and approves all documentation. Liaisons between the MWG, the MCC, and related committees/stakeholders.\
+  \
 
-* Develop a marketing strategy for Cardano by October 2024
-* Through the strategy, identify and cost a marketing budget to submit for community consideration (via treasury).
+* Co-Lead (current: Simon): Acts as a reliable backup for the lead and supports the lead in all his duties. Helps with organizing asynchronous work as well as the MWG itself.\
+  \
 
-The purpose and objectives continue to be refined to be aligned to the wider groups perspectives and ambitions, however the key objectives for the working group continue to have a short/mid term focus with the aim to deliver a marketing budget for community consideration.&#x20;
+* Secretary (TBD): Utilizes AI to transcribe meetings and maintain organized documentation. Takes attendance. Gathers working activities, and action items and keeps records of the same.\
+  \
 
-## Related committee
+* Public Communications Specialist (TBD): Prepares official communications based on meeting resolutions. Helps to gather and assess community sentiment.
 
-The marketing working group is considered more as a "Special Interest Group" or (SiG) as it doesn't have a natural committee home to roll-up to. The working group operates with relative independence to the seven core committees at Intersect, although are supported by Intersect professional staff.
 
-## Working group lead & cadence
 
-MLaden continues to lead the working group, supported by Intersect's marketing and community team. In June 2024, a steering layer will be added to support MLaden and accelerate our outputs towards our objectives.\
+## 4. Working Group Members
+
 \
-The group meet weekly, and typically on Friday's for an hour held between 15:00-17:00 UTC
 
-## Working group members
 
-Over 100 people (Intersect members and non) have registered to join the working group, and on average each session has 30+ contributors.&#x20;
+Membership onboarding process will be defined by consent of the working group members \[based on signals of merit], and updated here.\
+\
 
-## Working group deliverables
 
-All deliverables and materials produced by the group can be found in our shared drive here. Resources include meeting recordings, presentations, miro board, and more. You can review all current outputs [here](https://drive.google.com/drive/folders/161ToP89wfo3VuIh7TzeEuUqAlGWynOr\_?usp=sharing).
+The working group policy is to allow observers without constraint, with the expectation that their participation does not interfere with the activity of the group. Community members may [submit this form](https://bit.ly/MWG\_Onboard\_Form) to express interest in joining MWG.
 
-## Collaboration channels&#x20;
+| Name                          | Discord Name                  |
+| ----------------------------- | ----------------------------- |
+| Abdulrahman Abdulbasit Adigun | @nexTrend                     |
+| Jaiyeola Demilade             | @demmy\_\_                    |
+| Juan Sierra                   | <p>@JuanTheOne</p><p><br></p> |
+| Martin Marinov                | @leblanc\_awa                 |
+| Mubarak Abayomi Oladimeji     | @kitwillow2606                |
+| Natalia Rosa                  | @Nat\_JSat                    |
+| Nicodemus Rodriguez           | @elcryptonaut                 |
+| Randall Harmon                | @randall.h                    |
+| Seomon                        | @Seo4u                        |
+| Vaibhav                       | <p>@gintama.1</p><p><br></p>  |
 
-* Intersect [Discord](https://discord.com/channels/1136727663583698984/1240228290799865878)
+### 5. Working Group Deliverables (Short term)
 
-## How to join
+### &#x20;The Marketing Working Group will provide the timely delivery of the following resources:
 
-There are two routes to contribute and participate in the marketing working group
+* [Governing Structure](https://docs.google.com/document/d/1Eq4GN6Duu61Wwc3pombPL7QzI-MvCi9L\_p7tFva-Qlo/edit)
+* [Community Collaboration Plan](https://docs.google.com/document/d/1StfF65yJqXYCecmNrlzL5mxQTlpOvAcpLOzipTwtf-g/edit#heading=h.dgjuvv80bkec)
+* [Code of Conduct](https://docs.google.com/document/d/16yT-4G\_Zt9Q640zwoPEPM5SNCA0jnPbf7qGVa9VuGFg/edit)
+* Code of Ethics
+* [MWG Continuity Plan](https://docs.google.com/document/d/1\_7N33F3lnud39Yf9QH5sMhuuvSxxBHitu9SrVftdImY/edit#heading=h.rcd2w9dvqkls)
+* Marketing brief (continually updated)
+* [Strategy Document](https://docs.google.com/document/d/1YAIzjk99Qo\_Qld4TaoLfqnoofdgoMoVto9ZwzC37V1A/edit?tab=t.0#heading=h.m6ktmpq6nwbh)
+* 2025 Cardano Marketing Budget&#x20;
 
-1. Jump into Discord where you can catch-up on the latest discourse, plus meeting invites are shared.
-2. Register via the [sign-up form](https://t.co/7RSdd3oqwc) and you will be added to the outputs and invites&#x20;
+### 6. Collaboration Channels
+
+* Discord:[https://discord.com/channels/1136727663583698984/1240228290799865878](https://discord.com/channels/1136727663583698984/1240228290799865878)
+* Google Drive: [https://drive.google.com/drive/u/0/folders/161ToP89wfo3VuIh7TzeEuUqAlGWynOr\_](https://drive.google.com/drive/u/0/folders/161ToP89wfo3VuIh7TzeEuUqAlGWynOr\_)
+* Meeting Schedule: Fridays at 3 PM UTC. Meeting link: [meet.google.com/atp-sqms-dxz](http://meet.google.com/atp-sqms-dxz)
+* Linktree: [https://linktr.ee/Intersect\_Marketing\_WG](https://linktr.ee/Intersect\_Marketing\_WG)&#x20;
+
+### 7. Amendment Process
+
+This charter is a living document. Amendments can be proposed by any member and will be reviewed and approved through a consent-based decision-making process to ensure it evolves to meet the needs of the growing ecosystem.
+
+By addressing these areas, the Cardano Intersect Marketing Working Group aims to effectively promote Cardano’s unique value propositions, enhance community engagement, and drive growth in the blockchain ecosystem.
