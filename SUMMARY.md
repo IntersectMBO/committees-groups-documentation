@@ -3,13 +3,13 @@
 ## Committee Overview
 
 * [Committees Overview](README.md)
-  * [Committee Maturity Framework](committee-overview/committees-overview/committee-maturity-framework.md)
-  * [Committee Guiding Principles](committee-overview/committees-overview/committee-guiding-principles.md)
-  * [Committee Reporting](committee-overview/committees-overview/committee-reporting.md)
-  * [Committee Communications](committee-overview/committees-overview/committee-communications.md)
-  * [Committee Glossary of Terms](committee-overview/committees-overview/committee-glossary-of-terms.md)
-  * [Committee Links](committee-overview/committees-overview/committee-links.md)
-  * [Committee Contact Information](committee-overview/committees-overview/committee-contact-information.md)
+  * [Committee Maturity Framework](committee-overview/readme/committee-maturity-framework.md)
+  * [Committee Guiding Principles](committee-overview/readme/committee-guiding-principles.md)
+  * [Committee Reporting](committee-overview/readme/committee-reporting.md)
+  * [Committee Communications](committee-overview/readme/committee-communications.md)
+  * [Committee Glossary of Terms](committee-overview/readme/committee-glossary-of-terms.md)
+  * [Committee Links](committee-overview/readme/committee-links.md)
+  * [Committee Contact Information](committee-overview/readme/committee-contact-information.md)
 
 ## Groups Overview
 
@@ -25,7 +25,9 @@
   * [Hard Fork Working Group](groups-overview/working-groups/hard-fork-working-group.md)
   * [Working Group and Interest Group Process Design](groups-overview/working-groups/working-group-and-interest-group-process-design/README.md)
     * [General Framework](groups-overview/working-groups/working-group-and-interest-group-process-design/general-framework.md)
-  * [DReps Working Group](groups-overview/working-groups/dreps-working-group.md)
+  * [DReps Working Group](groups-overview/working-groups/dreps-working-group/README.md)
+    * [DReps WG - Meeting Notes](groups-overview/working-groups/dreps-working-group/dreps-wg-meeting-notes/README.md)
+      * [October](groups-overview/working-groups/dreps-working-group/dreps-wg-meeting-notes/october.md)
   * [Marketing Working Group](groups-overview/working-groups/marketing-working-group.md)
   * [Certification Working Group](groups-overview/working-groups/certification-working-group.md)
   * [Developer Experience Working Group](groups-overview/working-groups/developer-experience-working-group.md)
