@@ -1,10 +1,12 @@
-# Marketing Working Group
+# Cardano Marketing Working Group
 
 {% hint style="info" %}
 Charter updated Oct. 2024
 {% endhint %}
 
-### 1. Purpose/Goal  The Cardano Intersect Marketing Working Group (MWG) is dedicated to attracting, empowering and directing global marketing initiatives that promote the decentralization and growth of the Cardano ecosystem. By fostering community engagement and enhancing Cardano's brand presence, the MWG aims to drive Cardano's expansion across global markets, aligning with its core values of transparency and inclusivity.&#x20;
+### 1. Purpose/Goal
+
+The Cardano Intersect Marketing Working Group (MWG) is dedicated to attracting, empowering and directing global marketing initiatives that promote the decentralization and growth of the Cardano ecosystem. By fostering community engagement and enhancing Cardano's brand presence, the MWG aims to drive Cardano's expansion across global markets, aligning with its core values of transparency and inclusivity.&#x20;
 
 ### 2. Related committee
 
@@ -12,27 +14,14 @@ Charter updated Oct. 2024
 
 ### 3. Structure and Leadership Roles
 
-* MWG Lead (current: Nicodemus): Prepares the agenda and leads meetings. Ensures MWG deliverables are completed on time and aligned with the overseeing committee’s goals. Helps to identify group needs and delegate responsibilities / authorize initiatives as necessary. Finalizes and approves all documentation. Liaisons between the MWG, the MCC, and related committees/stakeholders.\
-  \
-
-* Co-Lead (current: Simon): Acts as a reliable backup for the lead and supports the lead in all his duties. Helps with organizing asynchronous work as well as the MWG itself.\
-  \
-
-* Secretary (TBD): Utilizes AI to transcribe meetings and maintain organized documentation. Takes attendance. Gathers working activities, and action items and keeps records of the same.\
-  \
-
+* MWG Lead (current: Nicodemus): Prepares the agenda and leads meetings. Ensures MWG deliverables are completed on time and aligned with the overseeing committee’s goals. Helps to identify group needs and delegate responsibilities / authorize initiatives as necessary. Finalizes and approves all documentation. Liaisons between the MWG, the MCC, and related committees/stakeholders.
+* Co-Lead (current: Simon): Acts as a reliable backup for the lead and supports the lead in all his duties. Helps with organizing asynchronous work as well as the MWG itself.
+* Secretary (TBD): Utilizes AI to transcribe meetings and maintain organized documentation. Takes attendance. Gathers working activities, and action items and keeps records of the same.
 * Public Communications Specialist (TBD): Prepares official communications based on meeting resolutions. Helps to gather and assess community sentiment.
 
+### 4. Working Group Members
 
-
-## 4. Working Group Members
-
-\
-
-
-Membership onboarding process will be defined by consent of the working group members \[based on signals of merit], and updated here.\
-\
-
+Membership onboarding process will be defined by consent of the working group members \[based on signals of merit], and updated here.
 
 The working group policy is to allow observers without constraint, with the expectation that their participation does not interfere with the activity of the group. Community members may [submit this form](https://bit.ly/MWG\_Onboard\_Form) to express interest in joining MWG.
 
@@ -51,7 +40,7 @@ The working group policy is to allow observers without constraint, with the expe
 
 ### 5. Working Group Deliverables (Short term)
 
-### &#x20;The Marketing Working Group will provide the timely delivery of the following resources:
+The Marketing Working Group will provide the timely delivery of the following resources:
 
 * [Governing Structure](https://docs.google.com/document/d/1Eq4GN6Duu61Wwc3pombPL7QzI-MvCi9L\_p7tFva-Qlo/edit)
 * [Community Collaboration Plan](https://docs.google.com/document/d/1StfF65yJqXYCecmNrlzL5mxQTlpOvAcpLOzipTwtf-g/edit#heading=h.dgjuvv80bkec)

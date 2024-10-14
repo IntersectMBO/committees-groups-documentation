@@ -28,7 +28,7 @@
   * [DReps Working Group](groups-overview/working-groups/dreps-working-group/README.md)
     * [DReps WG - Meeting Notes](groups-overview/working-groups/dreps-working-group/dreps-wg-meeting-notes/README.md)
       * [October](groups-overview/working-groups/dreps-working-group/dreps-wg-meeting-notes/october.md)
-  * [Marketing Working Group](groups-overview/working-groups/marketing-working-group.md)
+  * [Cardano Marketing Working Group](groups-overview/working-groups/marketing-working-group.md)
   * [Certification Working Group](groups-overview/working-groups/certification-working-group.md)
   * [Developer Experience Working Group](groups-overview/working-groups/developer-experience-working-group.md)
   * [Governance Metadata Working Group](groups-overview/working-groups/governance-metadata-working-group.md)
