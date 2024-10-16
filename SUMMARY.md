@@ -37,6 +37,7 @@
   * [Governance Tools Working Group](groups-overview/working-groups/governance-tools-working-group.md)
   * [Project Incubation Working Group](groups-overview/working-groups/project-incubation-working-group.md)
   * [Oracles Working Group](groups-overview/working-groups/oracles-working-group.md)
+  * [Open Source Libraries Working Group](groups-overview/working-groups/open-source-libraries-working-group.md)
 * [Technical Working Groups](groups-overview/technical-working-groups/README.md)
   * [Consensus](groups-overview/technical-working-groups/consensus.md)
   * [Ledger](groups-overview/technical-working-groups/ledger.md)
