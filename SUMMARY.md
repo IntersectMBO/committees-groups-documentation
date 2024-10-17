@@ -22,6 +22,7 @@
   * [Annual Members Meeting Design](groups-overview/working-groups/annual-members-meeting-design.md)
   * [Community Support](groups-overview/working-groups/community-support.md)
   * [Wallets Working Group](groups-overview/working-groups/wallets-working-group.md)
+  * [Research Working Group](groups-overview/working-groups/wallets-working-group-1.md)
   * [Hard Fork Working Group](groups-overview/working-groups/hard-fork-working-group.md)
   * [Working Group and Interest Group Process Design](groups-overview/working-groups/working-group-and-interest-group-process-design/README.md)
     * [General Framework](groups-overview/working-groups/working-group-and-interest-group-process-design/general-framework.md)
