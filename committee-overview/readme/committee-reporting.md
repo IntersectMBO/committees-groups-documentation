@@ -9,6 +9,8 @@ The report provides a regular single source of truth on:
 
 ### Reports <a href="#reports" id="reports"></a>
 
+* [18 October 2024](https://drive.google.com/file/d/1g5NJ21RZO79hbumHMblvXsNmC9QREvTK/view?usp=drive\_link)
+* [05 October 2025](https://drive.google.com/file/d/1EzT7Tf4j9tfRGrlOSi8AjlKxKsKXdCFI/view?usp=drive\_link)
 * [20 September 2024](https://drive.google.com/file/d/1ODbVTp9kdkEf3NYE9GcLMb2SbT5Hl9bO/view?usp=sharing)
 * [06 September 2024](https://docs.google.com/document/d/1wFsB\_NCOpArxIQNKjPVz9y6sjWE1npf2UXkaG8jO2BM/edit#heading=h.wjj1v29advno)
 * [23 August 2024](https://drive.google.com/file/d/1VH6SH3CuDJakoh7RKju5R-EW0obNCEs3/view?usp=sharing)
