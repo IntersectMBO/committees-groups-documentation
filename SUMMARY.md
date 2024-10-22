@@ -178,14 +178,14 @@
     * [Ben Hart - TSC](committee-elections/candidates-for-committee-elections-2024/technical-steering-committee-candidates/ben-hart-tsc.md)
     * [Zain Khan - TSC](committee-elections/candidates-for-committee-elections-2024/technical-steering-committee-candidates/zain-khan-tsc.md)
   * [Japanese translation of committee applicant biographies.](committee-elections/candidates-for-committee-elections-2024/japanese-translation-of-committee-applicant-biographies..md)
-* [Elected Candidates - October 2024 Elections](committee-elections/elected-candidates-october-2024-elections/README.md)
-  * [Intersect Steering Committee](committee-elections/elected-candidates-october-2024-elections/intersect-steering-committee.md)
-  * [Budget Committee](committee-elections/elected-candidates-october-2024-elections/budget-committee.md)
-  * [Cardano Civics Committee](committee-elections/elected-candidates-october-2024-elections/cardano-civics-committee.md)
-  * [Membership and Community Committee](committee-elections/elected-candidates-october-2024-elections/membership-and-community-committee.md)
-  * [Open Source Committee](committee-elections/elected-candidates-october-2024-elections/open-source-committee.md)
-  * [Technical Steering Committee](committee-elections/elected-candidates-october-2024-elections/technical-steering-committee.md)
-  * [Product Committee](committee-elections/elected-candidates-october-2024-elections/product-committee.md)
+* [Elected Committee Members- October 2024 Elections](committee-elections/elected-committee-members-october-2024-elections/README.md)
+  * [Intersect Steering Committee](committee-elections/elected-committee-members-october-2024-elections/intersect-steering-committee.md)
+  * [Budget Committee](committee-elections/elected-committee-members-october-2024-elections/budget-committee.md)
+  * [Cardano Civics Committee](committee-elections/elected-committee-members-october-2024-elections/cardano-civics-committee.md)
+  * [Membership and Community Committee](committee-elections/elected-committee-members-october-2024-elections/membership-and-community-committee.md)
+  * [Open Source Committee](committee-elections/elected-committee-members-october-2024-elections/open-source-committee.md)
+  * [Technical Steering Committee](committee-elections/elected-committee-members-october-2024-elections/technical-steering-committee.md)
+  * [Product Committee](committee-elections/elected-committee-members-october-2024-elections/product-committee.md)
 
 ## Board elections
 
@@ -216,3 +216,4 @@
   * [Simon Fleck - Board](board-elections/board-seat-candidates/simon-fleck-board.md)
   * [\[Name\] - Board](board-elections/board-seat-candidates/name-board.md)
   * [Board Seat Candidate Biographies in Japanese](board-elections/board-seat-candidates/board-seat-candidate-biographies-in-japanese.md)
+* [Elected Board Members - October 2024](board-elections/elected-board-members-october-2024.md)
