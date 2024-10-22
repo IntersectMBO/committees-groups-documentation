@@ -2,8 +2,8 @@
 
 ## Overview
 
-* [Election Results](README.md)
-* [Elections at Intersect in 2024](<README (1).md>)
+* [Elections at Intersect in 2024](README.md)
+* [2024 October Election Results](overview/2024-october-election-results.md)
 * [Key dates & notes](overview/key-dates-and-notes.md)
 * [Engagement events](overview/engagement-events.md)
 * [Key Guides](overview/key-guides/README.md)
