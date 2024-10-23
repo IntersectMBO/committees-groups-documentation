@@ -109,7 +109,7 @@
 
 * Reshan Fernando
 * Taichi Yokoyama
-* Eystein Magnus Hanse
+* Eystein Magnus Hansen
 * Daniela Alves
 
 
