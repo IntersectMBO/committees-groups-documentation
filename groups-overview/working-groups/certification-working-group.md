@@ -1,4 +1,4 @@
-# Certification Working Group
+# TSC - Certification Working Group
 
 {% hint style="info" %}
 We're woking on this page … for the moment you can find out all about the working group at our github page here: [https://github.com/input-output-hk/Certification-working-group](https://github.com/input-output-hk/Certification-working-group)
@@ -10,7 +10,7 @@ The aim of the Certification working group is to represent, foster and sustain a
 
 ## Related committee
 
-to be updated by working group
+Technical Steering Committee
 
 ## Working group lead
 

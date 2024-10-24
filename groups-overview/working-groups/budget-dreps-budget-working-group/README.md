@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# DReps Working Group
+# Budget - DReps Budget Working Group
 
 ## Purpose / Goal
 
@@ -31,6 +31,10 @@ The DRep Working Group is focused on supporting DReps (Delegated Representatives
 * Strengthen transparency and accountability within the budget approval framework.
 * Support DReps in building confidence and competence to contribute meaningfully to the Cardano ecosystem.
 * Ensure alignment with the broader goals of the Budget Committee and the community's governance framework.
+
+## Related committee
+
+Budget Committee
 
 ## Working group secretary
 

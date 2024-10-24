@@ -4,7 +4,7 @@ description: >-
   appropriate highlighting areas of improvement.
 ---
 
-# Transparency Special Interest Group
+# MCC - Transparency Special Interest Group
 
 {% hint style="info" %}
 
@@ -16,11 +16,11 @@ TBC - A special interest group to discuss transparency relating to Intersects Go
 
 ## Related committee
 
-MCC (as a special interest group)&#x20;
+MCC&#x20;
 
 ## Working group lead
 
-Jon Kravetz
+TBC
 
 ## Working group members
 

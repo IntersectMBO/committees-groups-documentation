@@ -1,4 +1,4 @@
-# Developer Experience Working Group
+# OSC - Developer Experience Working Group
 
 {% hint style="info" %}
 This WG falls under the Open Source Committee.
@@ -20,7 +20,7 @@ Learn here: [https://github.com/input-output-hk/Developer-Experience-working-gro
 
 ## Related committee
 
-to be updated by working group
+Open Source Committee
 
 ## Working group lead
 
