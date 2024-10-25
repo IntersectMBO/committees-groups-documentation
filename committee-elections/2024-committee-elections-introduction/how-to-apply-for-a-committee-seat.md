@@ -6,7 +6,7 @@ This page is currently being updated, in the interest of transparency we are wor
 
 ## Key Dates
 
-**09 September** - Application Process Opens (application forms [here](../overview/key-guides/how-to-apply-for-a-seat-in-the-intersect-elections.md#application-forms))
+**09 September** - Application Process Opens (application forms [here](../../overview/elections-at-intersect-in-2024/key-guides-and-faqs/how-to-apply-for-a-seat-in-the-intersect-elections.md#application-forms))
 
 **27 September** - Application Process Closes
 
@@ -68,7 +68,7 @@ Following the submission of your application you will receive an email to confir
 
 ## How will applications be verified.
 
-All applicants are to ensure the email they state on the application is the same as their membership email. We will use this to verify your membership status.  If you are unsure what your membership status is please check [how-to-check-your-membership-status](../overview/key-guides/how-to-check-your-membership-status/ "mention")
+All applicants are to ensure the email they state on the application is the same as their membership email. We will use this to verify your membership status.  If you are unsure what your membership status is please check [how-to-check-your-membership-status](../../overview/elections-at-intersect-in-2024/key-guides-and-faqs/how-to-check-your-membership-status/ "mention")
 
 ## Campaigning
 

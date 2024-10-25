@@ -20,9 +20,9 @@ To check which membership status you have please follow these steps
 
 3\) In the "Membership" Box it will confirm your status as shown below (examples of Associates and Individual membership)
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Example of what will be shown if you are an Associate</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption><p>Example of what will be shown if you are an Associate</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Example of what will be shown if you are an Individual Member</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Example of what will be shown if you are an Individual Member</p></figcaption></figure>
 
 ## Changing from an Associate to Individual or Enterprise membership
 
@@ -34,12 +34,12 @@ If in your member area it shows you as an associate and you would like to apply 
 
 3\) In the "Membership" Box it will confirm your status select "manage membership" highlighted below in the green box.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 4\) On the next screen in the "Membership type" box select "Change" highlighted below in the yellow box
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 5\) Select the appropriate membership and follow the remaining steps to sign up the the terms and conditions and then complete the payment.
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>

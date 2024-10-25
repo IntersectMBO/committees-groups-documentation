@@ -25,4 +25,4 @@ All committees have been gearing up to be elected groups, filled by members dire
 \*Members of Intersect are those who have joined or renewed their membership for $10 as an individual or $1,000 as an enterprise. "Associates" are not eligible to stand. You must be a member on or by 27th September.
 {% endhint %}
 
-You can apply [here](overview/key-guides/how-to-apply-for-a-seat-in-the-intersect-elections.md#application-forms) for either a committee or the governing board.
+You can apply [here](overview/elections-at-intersect-in-2024/key-guides-and-faqs/how-to-apply-for-a-seat-in-the-intersect-elections.md#application-forms) for either a committee or the governing board.

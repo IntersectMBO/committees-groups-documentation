@@ -3,6 +3,7 @@ description: >-
   We will be running a number of community engagement sessions to ensure you
   have every opportunity to dial in and understand the approach we are taking,
   how to apply and how to vote.
+hidden: true
 ---
 
 # Engagement events
