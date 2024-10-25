@@ -99,7 +99,7 @@ No, it is one person one seat. &#x20;
 
 <summary>Where can I find out more about the committees?</summary>
 
-Each of the committees have a space in the Knowledge Base which also includes their contact details. They will also be arranging open offices which we will announce in Discord and will be visible in the Discord events area. They will also be providing regular updates on the Discord update channel [committee-information.md](../../../committee-elections/2024-committee-elections-introduction/committee-information.md "mention").
+Each of the committees have a space in the Knowledge Base which also includes their contact details. They will also be arranging open offices which we will announce in Discord and will be visible in the Discord events area. They will also be providing regular updates on the Discord update channel [committee-information.md](../2024-committee-elections-introduction/committee-information.md "mention").
 
 </details>
 

@@ -19,7 +19,7 @@ The ISC has members from all committees, including community hub managers and re
 
 ## Committees Overview
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 ## Committee Compositions & Criteria&#x20;
 

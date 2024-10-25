@@ -6,7 +6,7 @@ This page is currently being updated, in the interest of transparency we are wor
 
 ## Key Dates
 
-**09 September** - Application Process Opens (application forms [here](../../overview/elections-at-intersect-in-2024/key-guides-and-faqs/how-to-apply-for-a-seat-in-the-intersect-elections.md#application-forms))
+**09 September** - Application Process Opens (application forms [here](../key-guides-and-faqs/how-to-apply-for-a-seat-in-the-intersect-elections.md#application-forms))
 
 **27 September** - Application Process Closes
 

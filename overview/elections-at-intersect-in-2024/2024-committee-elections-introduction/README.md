@@ -14,7 +14,7 @@ Intersect was established in January 2024 with seven core committees being staff
 
 Thanks to them we are now at a phase of maturity where we can take the next step and open up opportunities to join committees across the membership.&#x20;
 
-Opening on September 9th, members of Intersect\* can apply to join our core committees. All candidates will be voted upon by the wider membership base during October (see "[key dates](../../overview/key-dates-and-notes.md)" for more information).
+Opening on September 9th, members of Intersect\* can apply to join our core committees. All candidates will be voted upon by the wider membership base during October (see "[key dates](../key-dates-and-notes.md)" for more information).
 
 {% hint style="info" %}
 \*Members of Intersect are those who have joined or renewed their membership for $10 as an individual or $1,000 as an enterprise. "Associates" are not eligible to stand. You must be a member on or by 27th September.
@@ -34,7 +34,7 @@ Unlike Cardano mainnet voting, Intersect adopts "one member, one vote" (not stak
 
 ## What you need to know
 
-We have compiled all the information we feel that you will need to know along with the key dates and frequently asked questions.  All of this can be found within this area of our knowledge base.  We will also be holding a number of[ engagement events](../../overview/engagement-events.md) and posting key messages across our social media platforms.
+We have compiled all the information we feel that you will need to know along with the key dates and frequently asked questions.  All of this can be found within this area of our knowledge base.  We will also be holding a number of[ engagement events](../engagement-events.md) and posting key messages across our social media platforms.
 
 We have set up a [Discord Election Channel](https://discord.com/channels/1136727663583698984/1270677346743222337) so you can post any questions you may have.  You can also email [karen.wickham@intersectmbo.org](mailto:karen.wickham@intersectmbo.org).
 

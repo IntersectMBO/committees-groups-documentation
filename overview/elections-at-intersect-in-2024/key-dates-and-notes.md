@@ -7,7 +7,7 @@ hidden: true
 
 ## Applications
 
-**09 September** - The application process opens (application forms [here](elections-at-intersect-in-2024/key-guides-and-faqs/how-to-apply-for-a-seat-in-the-intersect-elections.md#application-forms))
+**09 September** - The application process opens (application forms [here](key-guides-and-faqs/how-to-apply-for-a-seat-in-the-intersect-elections.md#application-forms))
 
 **27 September at 12.00 pm UTC**- The application process closes\
 
