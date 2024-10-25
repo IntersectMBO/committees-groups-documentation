@@ -301,4 +301,4 @@
 
 ***
 
-For anyone who would like to check the individual votes submitted and confirm the tallies [here](https://drive.google.com/file/d/1lUlw\_Ua7bSZG07r1MAASJExK4s\_pzaqD/view?usp=sharing) are the raw voting results in CSV format
+For anyone who would like to check the individual votes submitted and confirm the tallies here are the raw voting results in CSV format
