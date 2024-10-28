@@ -112,7 +112,6 @@
 * Taichi Yokoyama
 * Eystein Magnus Hansen
 * Daniela Alves
-* Takeshi Ohishi (appointed due to Adam Rusch resigning his seat in light of Board seat appointment)
 
 
 
