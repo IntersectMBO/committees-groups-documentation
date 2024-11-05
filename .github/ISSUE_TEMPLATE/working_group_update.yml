@@ -7,11 +7,14 @@ body:
       value: |
         **Thank you for contributing to our project!** :green_heart:
 
+        Instead of opening this issue, consider [starting a new idea discussion](https://github.com/IntersectMBO/xxxx-committee-documentation/discussions/new?category=ideas).
+        That way, we can discuss & refine your idea together, before we adopt it as a feature into the roadmap.
+
   - type: textarea
     id: which
     attributes:
       label: Which
-      description: Which Working Group needs or wants this update?
+      description: Which Working Group needs or wants this update
       placeholder: |
         Give context and describe the problem, challenge or opportunity you see
     validations:
@@ -21,7 +24,7 @@ body:
     id: what
     attributes:
       label: What
-      description: What would you like to see updated?
+      description: What is this update roughly about
       placeholder: |
         For example describe a change in members, a change in lead member,
         a new meeting minute update, ...
