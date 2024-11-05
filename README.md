@@ -5,7 +5,7 @@ description: 2024 elections overview
 # Elections at Intersect in 2024
 
 {% hint style="info" %}
-Applications for the committees and board elections are now closed.&#x20;
+Applications for the committees and board elections are now closed.
 
 Voting started on Friday 4th of October 10.00am UTC and will be open until Sunday 20th October 10.00am UTC
 {% endhint %}
@@ -14,7 +14,7 @@ As a member-based organization transparency and accountability are core values t
 
 ## Moving to elected positions
 
-All committees have been gearing up to be elected groups, filled by members directly. In September and October, we're excited to open elections for members to apply and join our core committees! In addition, our governing board will be seeking two members to join as non-executive directors - guiding and supporting the organization from a legal and operational perspective.&#x20;
+All committees have been gearing up to be elected groups, filled by members directly. In September and October, we're excited to open elections for members to apply and join our core committees! In addition, our governing board will be seeking two members to join as non-executive directors - guiding and supporting the organization from a legal and operational perspective.
 
 ## Key information for our members
 
@@ -25,4 +25,4 @@ All committees have been gearing up to be elected groups, filled by members dire
 \*Members of Intersect are those who have joined or renewed their membership for $10 as an individual or $1,000 as an enterprise. "Associates" are not eligible to stand. You must be a member on or by 27th September.
 {% endhint %}
 
-You can apply [here](overview/elections-at-intersect-in-2024/key-guides-and-faqs/how-to-apply-for-a-seat-in-the-intersect-elections.md#application-forms) for either a committee or the governing board.
+You can apply [here](overview/readme/key-guides-and-faqs/how-to-apply-for-a-seat-in-the-intersect-elections.md#application-forms) for either a committee or the governing board.
