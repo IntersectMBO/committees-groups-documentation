@@ -1,28 +1,23 @@
----
-description: 2024 elections overview
----
+# Committees Overview
 
-# Elections at Intersect in 2024
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Intersects Main Committees</p></figcaption></figure>
 
-{% hint style="info" %}
-Applications for the committees and board elections are now closed.
+**#Intersect Steering Committee (coming soon)**
 
-Voting started on Friday 4th of October 10.00am UTC and will be open until Sunday 20th October 10.00am UTC
-{% endhint %}
+[Intersect - Budget Committee](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/gsGMUGjBGIwHbN0vrf7v/ "mention")
 
-As a member-based organization transparency and accountability are core values to how Intersect best serves the Cardano ecosystem. Elections are a core component of transparent representation, continuing to be a member-driven organization. Intersect was established in Wyoming at the end of 2023, and since then has been steered by members who raised their hands and got involved. Thank you to all those who stepped up as Founding Members and moved us forward during our first year.
+[Intersect - Civics Committee](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/5BQdZEh6JOGB8uosMGwD/ "mention")
 
-## Moving to elected positions
+[Intersect-Membership and Community Committee (MCC)](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/ZqouSToCJnFmpkx5WZw5/ "mention")
 
-All committees have been gearing up to be elected groups, filled by members directly. In September and October, we're excited to open elections for members to apply and join our core committees! In addition, our governing board will be seeking two members to join as non-executive directors - guiding and supporting the organization from a legal and operational perspective.
+[Intersect - Open Source Committee](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/LBdnzp0eZpGri9sVpseI/ "mention")
 
-## Key information for our members
+[Intersect -  Product committee](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/K7cBOo8O1BpQ2uwlq0BE/ "mention")
 
-* September 9th, we will be accepting applications to join committees and the governing board. Applications will close September 27th
-* October 4th, voting will open and all eligible\* members will be able to select and vote for their preferred candidates on both committees and the governing board. Voting will happen through the online members area and close on October 20th.
+[Intersect - Technical Steering Committee](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/Yzy77cQuAEYNjeNy3YrN/ "mention")
 
-{% hint style="info" %}
-\*Members of Intersect are those who have joined or renewed their membership for $10 as an individual or $1,000 as an enterprise. "Associates" are not eligible to stand. You must be a member on or by 27th September.
-{% endhint %}
+[Intersect - Parameter Sub Committee](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/zVLTSzhSBVPLGReSGorb/ "mention") (Sub Committee of TSC)
 
-You can apply [here](overview/readme/key-guides-and-faqs/how-to-apply-for-a-seat-in-the-intersect-elections.md#application-forms) for either a committee or the governing board.
+
+
+[Intersect elections - 2024](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/PTouV0f6Si1oWdMQe9Cb/ "mention")
