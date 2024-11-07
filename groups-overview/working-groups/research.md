@@ -34,8 +34,7 @@ To engage with us please message us via our [Discord channel](https://discord.co
 
 ## Members
 
-[Fergie Miller\
-](https://x.com/fergiemiller)\
+[Fergie Miller\ ](https://x.com/fergiemiller)\
 Nicolas Biri\
 Lorenzo Bruno\
 Saman Michael Far
