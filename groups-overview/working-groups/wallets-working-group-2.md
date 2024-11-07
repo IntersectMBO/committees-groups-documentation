@@ -1,5 +1,4 @@
 ---
-hidden: true
 layout:
   title:
     visible: true
@@ -13,7 +12,7 @@ layout:
     visible: true
 ---
 
-# aa
+# Product - Research Working Group
 
 {% hint style="info" %}
 This page is managed by the working group
