@@ -34,7 +34,7 @@ To engage with us please message us via our [Discord channel](https://discord.co
 
 ## Members
 
-[Fergie Miller\ ](https://x.com/fergiemiller)\
+[Fergie Miller](https://x.com/fergiemiller)\
 Nicolas Biri\
 Lorenzo Bruno\
 Saman Michael Far
@@ -43,11 +43,11 @@ If you would like to join the Research Working Group please contact us via [Disc
 
 ## Objectives
 
-The Intersect Research Working Group aims to establish a robust research agenda centered on sustainability, interoperability, and security to drive Cardano’s growth.&#x20;
+The Intersect Research Working Group aims to establish a robust research agenda centered on sustainability, interoperability, and security to drive Cardano’s growth.
 
 Through conducting fundamental research in areas like consensus algorithms (e.g., Ouroboros Omega), zero-knowledge proofs, quantum-resistant cryptography, and smart contract functionality, the group seeks to enable adoption, resilience, and education within the Cardano ecosystem.
 
-## Priorities&#x20;
+## Priorities
 
 **Cardano Vision**\
 \
@@ -57,15 +57,15 @@ _A Cardano Vision presentation will be uploaded here shortly._\
 \
 **2025 Work Program**
 
-Finalization of the 2025 work program prioritization which includes specific workstreams aimed at delivering excellence, quality and implementation.&#x20;
+Finalization of the 2025 work program prioritization which includes specific workstreams aimed at delivering excellence, quality and implementation.
 
-These include objectives, work plans, deliverables and resource allocation ensuring each workstream contributes effectively to Cardano's long-term vision of a robust, secure, and scalable blockchain platform. &#x20;
+These include objectives, work plans, deliverables and resource allocation ensuring each workstream contributes effectively to Cardano's long-term vision of a robust, secure, and scalable blockchain platform.
 
 **Communication & Dissemination**
 
 Establish a framework for 2025 and beyond to effectively share research insights, updates, and achievements with the Cardano community, industry stakeholders, and broader public.
 
-## Collaborate with us&#x20;
+## Collaborate with us
 
 * [Discord channel](https://discord.com/channels/1136727663583698984/1296205049915244594)
 * Regular meeting on first Thursday of every month (details on Discord)
