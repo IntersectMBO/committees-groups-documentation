@@ -24,7 +24,7 @@ Welcome to the Research Working Group knowledge base.\
 \
 The Intersect Research Working Group operates under the Intersect Product Committee, focusing on advancing research initiatives within the Cardano ecosystem. Its primary aim is to foster research that aligns with the goals of the Product Committee.\
 \
-To engage with us please message us via our Discord Channel or contact Fergie via [X](https://x.com/fergiemiller).
+To engage with us please message us via our [Discord channel](https://discord.com/channels/1136727663583698984/1296205049915244594) or contact Fergie via [X](https://x.com/fergiemiller).
 
 ## Related committee
 
@@ -69,4 +69,4 @@ Establish a framework for 2025 and beyond to effectively share research insights
 ## Collaborate with us&#x20;
 
 * [Discord channel](https://discord.com/channels/1136727663583698984/1296205049915244594)
-* Regular meeting on first Thursday of every month
+* Regular meeting on first Thursday of every month (details on Discord)
