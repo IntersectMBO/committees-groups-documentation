@@ -34,10 +34,10 @@ To engage with us please message us via our [Discord channel](https://discord.co
 
 ## Members
 
-[Fergie Miller](https://x.com/fergiemiller)\
-Nicolas Biri\
-Lorenzo Bruno\
-Saman Michael Far
+[Fergie Miller](https://x.com/fergiemiller) (Input Output Research)\
+Nicolas Biri (Input Output Research)\
+Lorenzo Bruno (Intersect MBO)\
+Saman Michael Far (Intersect MBO)
 
 If you would like to join the Research Working Group please contact us via [Discord](https://discord.com/channels/1136727663583698984/1296205049915244594).
 
