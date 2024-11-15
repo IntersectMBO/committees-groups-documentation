@@ -31,6 +31,7 @@
       * [October](groups-overview/working-groups/budget-dreps-budget-working-group/dreps-wg-meeting-notes/october.md)
   * [MCC - Cardano Marketing Working Group](groups-overview/working-groups/marketing-working-group.md)
   * [TSC - Certification Working Group](groups-overview/working-groups/certification-working-group.md)
+  * [TSC - Core Infrastructure Roadmap Working Group](groups-overview/working-groups/wg-name-template.md)
   * [OSC - Developer Experience Working Group](groups-overview/working-groups/developer-experience-working-group.md)
   * [TSC - Infrastructure Working Group](groups-overview/working-groups/infrastructure-working-group.md)
   * [Civics - Media Standards Working Group](groups-overview/working-groups/media-standards-working-group.md)
