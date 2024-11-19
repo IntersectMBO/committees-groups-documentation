@@ -2,7 +2,7 @@
 description: Duplicate this page as a template for your working group
 ---
 
-# Annual Members Meeting Design
+# MCC - Annual Members Meeting Design
 
 {% hint style="info" %}
 This is a new working group (as at 15 July).  This page will be populated shortly.
@@ -14,7 +14,7 @@ to be updated by working group
 
 ## Related committee
 
-[Membership and Community Committee (MCC)](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/ZqouSToCJnFmpkx5WZw5/ "mention")
+[Intersect-Membership and Community Committee (MCC)](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/ZqouSToCJnFmpkx5WZw5/ "mention")
 
 ## Working group lead
 
@@ -34,7 +34,7 @@ to be updated by working group
 
 ## Collaboration channels&#x20;
 
-* \[discord]
+* [AMM Annual Members Meeting](https://discord.com/channels/1136727663583698984/1276653192070823949)
 
 ## Working Group Meeting date and time
 
