@@ -53,7 +53,7 @@ Through conducting fundamental research in areas like consensus algorithms (e.g.
 \
 A five-year vision for Cardano, outlining research priorities, objectives and proposed application areas under a number of thematic focus areas. This plan is informed by Cardano’s tenets, analysis of the research landscape and stakeholder consultations, reflecting on lessons learned over the past seven years to ensure Cardano reinforces its leadership and worldwide adoption.\
 \
-_A Cardano Vision presentation will be uploaded here shortly._\
+Cardano Vision presentation (draft) v1.0 _-_ RWG invites feedback via its [Discord channel](https://committees.docs.intersectmbo.org/groups-overview/working-groups/research)_._\
 \
 **2025 Work Program**
 
