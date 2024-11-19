@@ -51,15 +51,12 @@ Through conducting fundamental research in areas like consensus algorithms (e.g.
 
 **Cardano Vision**\
 \
-A five-year vision for Cardano, outlining research priorities, objectives and proposed application areas under a number of thematic focus areas. This plan is informed by Cardano’s tenets, analysis of the research landscape and stakeholder consultations, reflecting on lessons learned over the past seven years to ensure Cardano reinforces its leadership and worldwide adoption.\
-
-
-Cardano Vision presentation (draft) v1.0 _-_&#x20;
+A five-year vision for Cardano, outlining research priorities, objectives and proposed application areas under a number of thematic focus areas. This plan is informed by Cardano’s tenets, analysis of the research landscape and stakeholder consultations, reflecting on lessons learned over the past seven years to ensure Cardano reinforces its leadership and worldwide adoption.
 
 {% file src="../../.gitbook/assets/24.10 Intersect - Product Committee - Research Working Group - Cardano Vision (Draft) v1.0.pdf" %}
+RWG invites feedback on the Cardano Vision presentation (draft) v1.0 via its [Discord channel](https://committees.docs.intersectmbo.org/groups-overview/working-groups/research)_._
+{% endfile %}
 
-RWG invites feedback via its [Discord channel](https://committees.docs.intersectmbo.org/groups-overview/working-groups/research)_._\
-\
 **2025 Work Program**
 
 Finalization of the 2025 work program prioritization which includes specific workstreams aimed at delivering excellence, quality and implementation.
