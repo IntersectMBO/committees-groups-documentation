@@ -53,7 +53,7 @@ Through conducting fundamental research in areas like consensus algorithms (e.g.
 \
 A five-year vision for Cardano, outlining research priorities, objectives and proposed application areas under a number of thematic focus areas. This plan is informed by Cardano’s tenets, analysis of the research landscape and stakeholder consultations, reflecting on lessons learned over the past seven years to ensure Cardano reinforces its leadership and worldwide adoption.
 
-{% file src="../../.gitbook/assets/24.10 Intersect - Product Committee - Research Working Group - Cardano Vision (Draft) v1.0.pdf" %}
+{% file src="../../.gitbook/assets/24.10 Intersect - Product Committee - Research Working Group - Cardano Vision (Draft) v1.03.pdf" %}
 RWG invites feedback on the Cardano Vision presentation (draft) v1.0 via its [Discord channel](https://committees.docs.intersectmbo.org/groups-overview/working-groups/research)_._
 {% endfile %}
 
@@ -70,4 +70,6 @@ Establish a framework for 2025 and beyond to effectively share research insights
 ## Collaborate with us
 
 * [Discord channel](https://discord.com/channels/1136727663583698984/1296205049915244594)
-* Regular meeting on first Thursday of every month (details on Discord)
+* Regular meeting on the first Tuesday of every month (details on Discord)\
+  \
+  \* Please note that the next RWG meeting has been rescheduled to 4pm UTC on Tuesday 10th December due to the Cardano Constitutional Convention \*&#x20;
