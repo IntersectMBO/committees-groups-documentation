@@ -9,6 +9,7 @@ The report provides a regular single source of truth on:
 
 ### Reports <a href="#reports" id="reports"></a>
 
+* 13 December (paused for Christmas, next report in Jan 2025)
 * [29 November 2024](https://drive.google.com/file/d/1xDQNXYjn1RNeP3h1Qp7-Ur3BL_tgB8ih/view?usp=sharing)
 * [15 November 2024](https://drive.google.com/file/d/1Aqt3O7XmN9Vj08gSTniXercaCxxu0A-c/view?usp=sharing)
 * [18 October 2024](https://drive.google.com/file/d/1g5NJ21RZO79hbumHMblvXsNmC9QREvTK/view?usp=drive_link)
