@@ -61,6 +61,6 @@ The Marketing Working Group will provide the timely delivery of the following re
 
 ### 7. Amendment Process
 
-This charter is a living document. Amendments can be proposed by any member and will be reviewed and approved through a consent-based decision-making process to ensure it evolves to meet the needs of the growing ecosystem.
+This charter is a living document. Amendments can be proposed by any member and will be reviewed and approved by the MWG Leads through a consent-based decision-making process to ensure it evolves to meet the needs of the growing ecosystem.
 
 By addressing these areas, the Cardano Intersect Marketing Working Group aims to effectively promote Cardano’s unique value propositions, enhance community engagement, and drive growth in the blockchain ecosystem.
