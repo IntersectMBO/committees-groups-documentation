@@ -1,7 +1,7 @@
 # MCC - Cardano Marketing Working Group
 
 {% hint style="info" %}
-Charter updated Oct. 2024
+Charter updated Dec. 2024
 {% endhint %}
 
 ### 1. Purpose/Goal
