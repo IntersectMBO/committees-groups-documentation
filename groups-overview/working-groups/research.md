@@ -72,4 +72,4 @@ Establish a framework for 2025 and beyond to effectively share research insights
 * [Discord channel](https://discord.com/channels/1136727663583698984/1296205049915244594)
 * Regular meeting at 3pm UTC on the first Tuesday of every month (details on Discord)\
   \
-  \* Please note that the next RWG meeting has been rescheduled to 3pm UTC on Tuesday 11th February \*&#x20;
+  \* Please note that the next RWG meeting has been rescheduled to 3pm UTC on Tuesday 11th February 2025 \*&#x20;
