@@ -63,6 +63,12 @@ Finalization of the 2025 work program prioritization which includes specific wor
 
 These include objectives, work plans, deliverables and resource allocation ensuring each workstream contributes effectively to Cardano's long-term vision of a robust, secure, and scalable blockchain platform.
 
+[20 Proposed Research Streams (opens in Google sheets)](https://docs.google.com/spreadsheets/d/13k3Mps2HSy2G6ggMLyp6T8e75US7b6zgGDTZ9zfcs-U/edit?usp=sharing)
+
+[6 Proposed Innovation Streams (opens in Google sheets)](https://docs.google.com/spreadsheets/d/11rya68hBIqX36kdJPYBM9H_0QTXPkNL2Fj4E9KtCvCA/edit?usp=sharing)
+
+The community is invited to provide feedback via the [Cardano Forum](https://forum.cardano.org/t/cardano-research-budget-proposal/143044).
+
 **Communication & Dissemination**
 
 Establish a framework for 2025 and beyond to effectively share research insights, updates, and achievements with the Cardano community, industry stakeholders, and broader public.
