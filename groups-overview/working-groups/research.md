@@ -36,8 +36,7 @@ To engage with us please message us via our [Discord channel](https://discord.co
 
 [Fergie Miller](https://x.com/fergiemiller) (Input Output Research)\
 Nicolas Biri (Input Output Research)\
-Lorenzo Bruno (Intersect MBO)\
-Saman Michael Far (Intersect MBO)
+Lorenzo Bruno (Intersect MBO)
 
 If you would like to join the Research Working Group please contact us via [Discord](https://discord.com/channels/1136727663583698984/1296205049915244594).
 
@@ -77,5 +76,4 @@ Establish a framework for 2025 and beyond to effectively share research insights
 
 * [Discord channel](https://discord.com/channels/1136727663583698984/1296205049915244594)
 * Regular meeting at 3pm UTC on the first Tuesday of every month (details on Discord)\
-  \
-  \* Please note that the next RWG meeting has been rescheduled to 3pm UTC on Tuesday 11th February 2025 \*&#x20;
+  &#x20;
