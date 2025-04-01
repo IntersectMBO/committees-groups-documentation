@@ -6,7 +6,7 @@ This page is subject to updates as Committee pages are aligned.&#x20;
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Intersects Main Committees</p></figcaption></figure>
 
-## **test**
+## **Committees**
 
 {% content-ref url="https://app.gitbook.com/s/D2rg7EhSVnGj7fc1h3WY/about/readme" %}
 [Intersect Steering Committee (ISC)](https://app.gitbook.com/s/D2rg7EhSVnGj7fc1h3WY/about/readme)
