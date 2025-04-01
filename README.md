@@ -1,23 +1,48 @@
 # Committees Overview
 
+{% hint style="info" %}
+This page is subject to updates as Committee pages are aligned.&#x20;
+{% endhint %}
+
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Intersects Main Committees</p></figcaption></figure>
 
-**#Intersect Steering Committee (coming soon)**
+## **Committees**
 
-[Intersect - Budget Committee](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/gsGMUGjBGIwHbN0vrf7v/ "mention")
+{% content-ref url="https://app.gitbook.com/s/D2rg7EhSVnGj7fc1h3WY/about/readme" %}
+[About Intersect Steering Committee](https://app.gitbook.com/s/D2rg7EhSVnGj7fc1h3WY/about/readme)
+{% endcontent-ref %}
 
-[Intersect - Civics Committee](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/5BQdZEh6JOGB8uosMGwD/ "mention")
+{% content-ref url="https://app.gitbook.com/s/gsGMUGjBGIwHbN0vrf7v/about/readme" %}
+[Budget committee](https://app.gitbook.com/s/gsGMUGjBGIwHbN0vrf7v/about/readme)
+{% endcontent-ref %}
 
-[Intersect-Membership and Community Committee (MCC)](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/ZqouSToCJnFmpkx5WZw5/ "mention")
+{% content-ref url="https://app.gitbook.com/s/5BQdZEh6JOGB8uosMGwD/about/readme" %}
+[About Cardano Civics Committee](https://app.gitbook.com/s/5BQdZEh6JOGB8uosMGwD/about/readme)
+{% endcontent-ref %}
 
-[Intersect - Open Source Committee](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/LBdnzp0eZpGri9sVpseI/ "mention")
+{% content-ref url="https://app.gitbook.com/s/ZqouSToCJnFmpkx5WZw5/about/readme" %}
+[About the Membership and Community Committee (MCC)](https://app.gitbook.com/s/ZqouSToCJnFmpkx5WZw5/about/readme)
+{% endcontent-ref %}
 
-[Intersect -  Product committee](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/K7cBOo8O1BpQ2uwlq0BE/ "mention")
+{% content-ref url="https://app.gitbook.com/s/wMyFSInrXRP8VL0iYQ2b/" %}
+[Growth & Marketing Commitee](https://app.gitbook.com/s/wMyFSInrXRP8VL0iYQ2b/)
+{% endcontent-ref %}
 
-[Intersect - Technical Steering Committee](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/Yzy77cQuAEYNjeNy3YrN/ "mention")
+{% content-ref url="https://app.gitbook.com/s/LBdnzp0eZpGri9sVpseI/about/readme" %}
+[Open Source Committee Charter](https://app.gitbook.com/s/LBdnzp0eZpGri9sVpseI/about/readme)
+{% endcontent-ref %}
 
-[Intersect - Parameter Sub Committee](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/zVLTSzhSBVPLGReSGorb/ "mention") (Sub Committee of TSC)
+{% content-ref url="https://app.gitbook.com/s/K7cBOo8O1BpQ2uwlq0BE/about/readme" %}
+[Product committee](https://app.gitbook.com/s/K7cBOo8O1BpQ2uwlq0BE/about/readme)
+{% endcontent-ref %}
 
+{% content-ref url="https://app.gitbook.com/s/Yzy77cQuAEYNjeNy3YrN/about/readme" %}
+[About Technical Steering Committee](https://app.gitbook.com/s/Yzy77cQuAEYNjeNy3YrN/about/readme)
+{% endcontent-ref %}
 
+## Sub-Committees
 
-[Intersect elections - 2024](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/PTouV0f6Si1oWdMQe9Cb/ "mention")
+{% content-ref url="https://app.gitbook.com/s/zVLTSzhSBVPLGReSGorb/about/readme" %}
+[About Parameter Committee](https://app.gitbook.com/s/zVLTSzhSBVPLGReSGorb/about/readme)
+{% endcontent-ref %}
+
