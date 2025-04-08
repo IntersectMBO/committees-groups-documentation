@@ -27,16 +27,17 @@ Nick - Support (Head of Membership and Community Hubs)
 
 An initial cohort has been invited into the community hubs working group. it is anticipated this will expand as the working group progresses:
 
-| Name                    | Discord        | Voting member |
-| ----------------------- | -------------- | ------------- |
-| Phil Lewis              | @phil\_lewis   | No            |
-| Lawrence Clark          | @LawrenceC     | No            |
-| Nicolas Cerny           | @nicolasc3rny  | No            |
-| Vaibhav S               | @gintama.1     | No            |
-| <h3>Naushad Fouze</h3>  | @randomowly    | No            |
-| <h3>Thiago Nunes</h3>   | <p><br></p>    | No            |
-| <h3>Lucas</h3>          | OSC Chain      | No            |
-| <h3>Jose Iadicicco</h3> | @joseiadicicco | No            |
+| Name                     | Discord        | Voting member |
+| ------------------------ | -------------- | ------------- |
+| Phil Lewis               | @phil\_lewis   | No            |
+| Lawrence Clark           | @LawrenceC     | No            |
+| Nicolas Cerny            | @nicolasc3rny  | No            |
+| Vaibhav S                | @gintama.1     | No            |
+| N. Malik Fouze           | @randomowly    | No            |
+| Thiago Nunes             | <p><br></p>    | No            |
+| P. Lucas                 |                | No            |
+| Jose Iadiccio            | @joseiadicicco | No            |
+| Terence 'Tex' McCutcheon | @ranchhand87   | No            |
 
 ### Meeting process and engagement rules
 
