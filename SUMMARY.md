@@ -19,6 +19,7 @@
   * [Special Interest Groups (SIGs)](groups-overview/groups-overview/special-interest-groups-sigs.md)
   * [Working Group Frequently Asked Questions (FAQs)](groups-overview/groups-overview/working-group-frequently-asked-questions-faqs.md)
 * [Working Groups](groups-overview/working-groups/README.md)
+  * [ISC - Intersect Governance Working Group](groups-overview/working-groups/isc-intersect-governance-working-group.md)
   * [MCC - Community Hubs Working Group](groups-overview/working-groups/mcc-community-hubs-working-group.md)
   * [MCC - Annual Members Meeting Design](groups-overview/working-groups/annual-members-meeting-design.md)
   * [MCC - Community Support](groups-overview/working-groups/community-support.md)
