@@ -24,7 +24,7 @@ So what will change for Working Groups which are re-assigned, in many cases very
 
 We understand that this change may raise concerns among those currently involved in working groups. This reorganization is about optimizing how we harness the community's talents. We aim to recognize and utilize the best available expertise to promptly meet our Community and Committees' needs. Your contributions remain highly valued, and this new structure seeks to provide more opportunities for everyone to engage meaningfully and make significant impacts.
 
-If you have any questions you can discuss this with any Committee Secretary or the Committee Liaison (Karen W).
+If you have any questions you can discuss this with any Committee Secretary or the Committee Liaison ([Tex M](mailto:committees@intersectmbo.org).).
 
 
 
