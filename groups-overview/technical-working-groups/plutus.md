@@ -21,3 +21,13 @@ Discord
 Debut Meeting 5/28/24 10am EST, Following every other week Tuesday's 10am EST.
 
 Here is a link to the meeting: [https://meet.google.com/xdp-ivgv-swh](https://meet.google.com/xdp-ivgv-swh)
+
+
+
+## Meeting Recordings
+
+All meetings are recorded and published online. By participating, you consent to being recorded. If you do not wish to appear in the recording, please turn off your camera or leave the meeting.
+
+📁 [Access the meeting recordings folder here](https://drive.google.com/drive/folders/142dI24-hhMjk3Gdorj6Q78NKX6TX0PZX?usp=sharing)
+
+\
