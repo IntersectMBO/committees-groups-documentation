@@ -49,6 +49,7 @@
   * [Plutus](groups-overview/technical-working-groups/plutus.md)
   * [🐉 Hydra](groups-overview/technical-working-groups/hydra.md)
   * [Partner Chains](groups-overview/technical-working-groups/partner-chains.md)
+  * [Tech Support](groups-overview/technical-working-groups/tech-support.md)
 * [Special Interest Groups](groups-overview/special-interest-groups/README.md)
   * [MCC - Transparency Special Interest Group](groups-overview/special-interest-groups/transparency-special-interest-group.md)
   * [MCC - Decentralized Education Interest Group](groups-overview/special-interest-groups/decentralized-education-interest-group.md)
