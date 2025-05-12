@@ -5,6 +5,7 @@
 * [Committees Overview](README.md)
   * [Committee Maturity Framework](committee-overview/readme/committee-maturity-framework.md)
   * [Committee Guiding Principles](committee-overview/readme/committee-guiding-principles.md)
+  * [Committee Member Onboarding](committee-overview/readme/committee-member-onboarding.md)
   * [Committee Reporting](committee-overview/readme/committee-reporting.md)
   * [Committee Communications](committee-overview/readme/committee-communications.md)
   * [Committee Glossary of Terms](committee-overview/readme/committee-glossary-of-terms.md)
