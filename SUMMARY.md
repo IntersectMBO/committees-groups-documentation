@@ -3,14 +3,14 @@
 ## Committee Overview
 
 * [Committees Overview](README.md)
-  * [Committee Maturity Framework](committee-overview/committees-overview/committee-maturity-framework.md)
-  * [Committee Guiding Principles](committee-overview/committees-overview/committee-guiding-principles.md)
-  * [Committee Member Onboarding](committee-overview/committees-overview/committee-member-onboarding.md)
-  * [Committee Reporting](committee-overview/committees-overview/committee-reporting.md)
-  * [Committee Communications](committee-overview/committees-overview/committee-communications.md)
-  * [Committee Glossary of Terms](committee-overview/committees-overview/committee-glossary-of-terms.md)
-  * [Committee Links](committee-overview/committees-overview/committee-links.md)
-  * [Committee Contact Information](committee-overview/committees-overview/committee-contact-information.md)
+  * [Committee Maturity Framework](committee-overview/committees/committee-maturity-framework.md)
+  * [Committee Guiding Principles](committee-overview/committees/committee-guiding-principles.md)
+  * [Committee Member Onboarding](committee-overview/committees/committee-member-onboarding.md)
+  * [Committee Reporting](committee-overview/committees/committee-reporting.md)
+  * [Committee Communications](committee-overview/committees/committee-communications.md)
+  * [Committee Glossary of Terms](committee-overview/committees/committee-glossary-of-terms.md)
+  * [Committee Links](committee-overview/committees/committee-links.md)
+  * [Committee Contact Information](committee-overview/committees/committee-contact-information.md)
 
 ## Groups Overview
 
