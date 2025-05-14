@@ -4,9 +4,11 @@
 
 The Plutus Technical Working Group focuses on the development and advancement of Plutus, which is the smart contract execution platform for Cardano. Plutus enables secure and reliable execution of decentralized applications (DApps) on the Cardano blockchain.&#x20;
 
-## Working group lead
+## Working group leadership
 
-Marshall Swift
+* Cardano High Assurance Team: Romain Soulat \<romain.soulat@iohk.io>&#x20;
+* Plutus Core Team: Ziyang Liu \<ziyang.liu@iohk.io>
+* Secretary: Stefano Leone \<stefano.leone@iohk.io>
 
 ## Working group members
 
