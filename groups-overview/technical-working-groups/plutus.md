@@ -20,9 +20,9 @@ Discord
 
 ## Working Group Meeting date and time
 
-Debut Meeting 5/28/24 10am EST, Following every other week Tuesday's 10am EST.
+The working group meets every two weeks on Tuesday at 16:00 CET.
 
-Here is a link to the meeting: [https://meet.google.com/xdp-ivgv-swh](https://meet.google.com/xdp-ivgv-swh)
+[👉 Add to your Google Calendar](https://calendar.google.com/calendar/event?action=TEMPLATE\&tmeid=NzBtajJnODY0OWE3MXFvdWdsNjg4ZzE2a2NfMjAyNTA1MTNUMTQwMDAwWiBzdGVmYW5vLmxlb25lQGlvaGsuaW8\&tmsrc=stefano.leone%40iohk.io\&scp=ALL)
 
 
 
