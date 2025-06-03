@@ -34,11 +34,11 @@ To engage with us please message us via our [Discord channel](https://discord.co
 
 ## Members
 
-[Fergie Miller](https://x.com/fergiemiller) (Input Output Research)\
-Nicolas Biri (Input Output Research)\
+[Fergie Miller](https://x.com/fergiemiller) (Input | Output Research)\
+Nicolas Biri (Input | Output Research)\
 Lorenzo Bruno (Intersect MBO)
 
-If you would like to join the Research Working Group please contact us via [Discord](https://discord.com/channels/1136727663583698984/1296205049915244594).
+Please contact us if you are interested in joining the Research Working Group.
 
 ## Objectives
 
@@ -50,11 +50,10 @@ Through conducting fundamental research in areas like consensus algorithms (e.g.
 
 **Cardano Vision**\
 \
-A five-year vision for Cardano, outlining research priorities, objectives and proposed application areas under a number of thematic focus areas. This plan is informed by Cardano’s tenets, analysis of the research landscape and stakeholder consultations, reflecting on lessons learned over the past seven years to ensure Cardano reinforces its leadership and worldwide adoption.
+A five-year vision for Cardano, outlining research priorities, objectives and proposed application areas under a number of thematic focus areas. This plan is informed by Cardano’s tenets, analysis of the research landscape and stakeholder consultations, reflecting on lessons learned over the past seven years to ensure Cardano reinforces its leadership and worldwide adoption.\
+\
+[Cardano Vision presentation (opens in Google slides)](https://docs.google.com/presentation/d/1B2MX1BlYJu5xa6KRix2vd_inTAAQLmoVINVrIb2oYzw/edit?usp=sharing)\
 
-{% file src="../../.gitbook/assets/24.12 Intersect - Product Committee - Research Working Group - Cardano Vision (Draft) v1.04.pdf" %}
-RWG invites feedback on the Cardano Vision presentation (draft) v1.0 via its [Discord channel](https://committees.docs.intersectmbo.org/groups-overview/working-groups/research)_._
-{% endfile %}
 
 **2025 Work Program**
 
@@ -62,18 +61,22 @@ Finalization of the 2025 work program prioritization which includes specific wor
 
 These include objectives, work plans, deliverables and resource allocation ensuring each workstream contributes effectively to Cardano's long-term vision of a robust, secure, and scalable blockchain platform.
 
-[20 Proposed Research Streams (opens in Google sheets)](https://docs.google.com/spreadsheets/d/13k3Mps2HSy2G6ggMLyp6T8e75US7b6zgGDTZ9zfcs-U/edit?usp=sharing)
+[Cardano Vision proposal (open in Google docs)](https://drive.google.com/file/d/1rNYWLwazh0vX3TMWMRfDqQc6ffLnFTAE/view)\
+\
+[Work Porgram 2025 - 20 Fundamental Research streams (opens in Google sheets)](https://docs.google.com/spreadsheets/d/1XtragK8dfzXbdVruo5X063ziBVd_R8Tz_05DapRt380/edit?usp=sharing) \
+\
+[Work Program 2025 - 6 Technology Validation streams (opens in Google sheets)](https://docs.google.com/spreadsheets/d/1BRPJoJ0s2Q1C1uswIejYmvUNAPIcnPohrh8ITT97my0/edit?usp=sharing)\
 
-[6 Proposed Innovation Streams (opens in Google sheets)](https://docs.google.com/spreadsheets/d/11rya68hBIqX36kdJPYBM9H_0QTXPkNL2Fj4E9KtCvCA/edit?usp=sharing)
-
-The community is invited to provide feedback via the [Cardano Forum](https://forum.cardano.org/t/cardano-research-budget-proposal/143044).
 
 **Communication & Dissemination**
 
-Establish a framework for 2025 and beyond to effectively share research insights, updates, and achievements with the Cardano community, industry stakeholders, and broader public.
+Following community feedback during the 2025 funding campaign, the RWG monthly sessions have been restructured to engage the community more effectively and provide a quorum for strategic research collaboration.\
+\
+To join the sessions on on the first Tuesday of each month, please sign up via the Input | Ouput Research [webpage](https://services.iohk.io/irwg-meeting).
 
 ## Collaborate with us
 
 * [Discord channel](https://discord.com/channels/1136727663583698984/1296205049915244594)
-* Regular meeting at 3pm UTC on the first Tuesday of every month (details on Discord)\
-  &#x20;
+
+\
+&#x20;
