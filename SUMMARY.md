@@ -6,6 +6,7 @@
   * [Committee Maturity Framework](committee-overview/committees/committee-maturity-framework.md)
   * [Committee Guiding Principles](committee-overview/committees/committee-guiding-principles.md)
   * [Committee Member Onboarding](committee-overview/committees/committee-member-onboarding.md)
+  * [Committee Member Dismissal (New)](committee-overview/committees/committee-member-dismissal-new.md)
   * [Committee Reporting](committee-overview/committees/committee-reporting.md)
   * [Committee Communications](committee-overview/committees/committee-communications.md)
   * [Committee Glossary of Terms](committee-overview/committees/committee-glossary-of-terms.md)

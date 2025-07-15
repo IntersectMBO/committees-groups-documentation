@@ -1,23 +1,9 @@
 ---
 cover: ../../.gitbook/assets/WWG_preview.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
-# Wallets Working Group
+# TSC - Wallets Working Group
 
 {% hint style="info" %}
 Page last updated; 2024-07-29
@@ -36,7 +22,7 @@ To further the development of Cardano’s wallet ecosystem. By providing a place
 
 ## Working group leads
 
-* [Ryan Williams](https://twitter.com/Ryun1\_)
+* [Ryan Williams](https://twitter.com/Ryun1_)
 * [Vladimir Kalnitsky](https://twitter.com/klntsky)
 * [Adam Dean](https://twitter.com/adamKDean)
 
@@ -52,7 +38,7 @@ WIP, dependent on maturity of Cardano backlog committee.
 
 ### Wallet Connectors Initiative
 
-* [See folder in shared drive.](https://drive.google.com/drive/folders/1wctnLBRQsEc-kWzDGmaIjLjqci-wtF23?usp=drive\_link)
+* [See folder in shared drive.](https://drive.google.com/drive/folders/1wctnLBRQsEc-kWzDGmaIjLjqci-wtF23?usp=drive_link)
 * Cardano does not have an optimal state of connectors.
 * The majority of issues on CIPs repo are CIP-30 related.
 * Although CIP-30 facilitated the launch of dApps on Cardano, we believe we as an ecosystem are out growing it.
@@ -68,7 +54,7 @@ WIP, dependent on maturity of Cardano backlog committee.
 ### Query Layer Initiative
 
 * Lead by Vladimir 💪
-* [See folder in shared drive](https://drive.google.com/drive/folders/1baSYHfWJdUh5dwRkHjY7qnaufjuO8sP2?usp=drive\_link)
+* [See folder in shared drive](https://drive.google.com/drive/folders/1baSYHfWJdUh5dwRkHjY7qnaufjuO8sP2?usp=drive_link)
 * Cardano lacks a standardized query layer. This can lead to suboptimal tooling, dApp and wallet architecture.
 * Every data provider creates its own query layer, this adds complexity to wallets and dApp designs.
 * By having a standardized query layer we could allow users to choose data providers for their wallets.
