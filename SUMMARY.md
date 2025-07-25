@@ -43,6 +43,7 @@
   * [OSC - Project Incubation Working Group](groups-overview/working-groups/project-incubation-working-group.md)
   * [OSC - Oracles Working Group](groups-overview/working-groups/oracles-working-group.md)
   * [OSC - Open Source Libraries Working Group](groups-overview/working-groups/osc-open-source-libraries-working-group.md)
+  * [GMC - Enterprise & Governance Adoption Working Group](groups-overview/working-groups/gmc-enterprise-and-governance-adoption-working-group.md)
 * [Technical Working Groups](groups-overview/technical-working-groups/README.md)
   * [Consensus](groups-overview/technical-working-groups/consensus.md)
   * [Ledger](groups-overview/technical-working-groups/ledger.md)
