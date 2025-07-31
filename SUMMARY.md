@@ -50,7 +50,7 @@
   * [Networking](groups-overview/technical-working-groups/networking.md)
   * [Node, CLI and API](groups-overview/technical-working-groups/node-cli-and-api.md)
   * [Plutus](groups-overview/technical-working-groups/plutus.md)
-  * [🐉 Hydra](groups-overview/technical-working-groups/hydra.md)
+  * [Layer 2](groups-overview/technical-working-groups/hydra.md)
   * [Partner Chains](groups-overview/technical-working-groups/partner-chains.md)
   * [Tech Support](groups-overview/technical-working-groups/tech-support.md)
 * [Special Interest Groups](groups-overview/special-interest-groups/README.md)
