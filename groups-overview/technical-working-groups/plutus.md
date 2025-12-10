@@ -30,6 +30,6 @@ The working group meets every two weeks on Tuesday at 16:00 CET.
 
 All meetings are recorded and published online. By participating, you consent to being recorded. If you do not wish to appear in the recording, please turn off your camera or leave the meeting.
 
-📁 [Access the meeting recordings folder here](https://drive.google.com/drive/folders/142dI24-hhMjk3Gdorj6Q78NKX6TX0PZX?usp=sharing)
+📁 [Access the meeting recordings folder here](https://drive.google.com/drive/folders/1xzqYt4iwOoOuIS5EaCy3vO0gc27lYDEQ)
 
-\
+<br>
