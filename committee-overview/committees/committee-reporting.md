@@ -1,5 +1,7 @@
 # Committee Reporting
 
+{% include "../../.gitbook/includes/archived.md" %}
+
 The report provides a regular single source of truth on:
 
 * Current Committee objectives and progress against these

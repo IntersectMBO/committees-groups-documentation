@@ -1,5 +1,7 @@
 # MCC - Cardano Marketing Working Group
 
+{% include "../../.gitbook/includes/archived.md" %}
+
 {% hint style="info" %}
 Charter updated Dec. 2024
 {% endhint %}

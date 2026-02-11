@@ -1,5 +1,7 @@
 # Committee Links
 
+{% include "../../.gitbook/includes/archived.md" %}
+
 [Budget Committee](https://intersect.gitbook.io/budget-committee/)
 
 [Civics Committee](https://intersect.gitbook.io/civics-committee/)
@@ -14,5 +16,4 @@
 
 [Parameter Committee](https://intersect.gitbook.io/parameter-committee/) (Sub Committee of TSC)
 
-[\
-](https://intersect.gitbook.io/intersect-committees-groups/committee-overview/committees-overview/committee-maturity-framework)
+[<br>](https://intersect.gitbook.io/intersect-committees-groups/committee-overview/committees-overview/committee-maturity-framework)

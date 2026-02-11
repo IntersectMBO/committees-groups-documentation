@@ -1,5 +1,7 @@
 # MCC - Community Hubs Working Group
 
+{% include "../../.gitbook/includes/archived.md" %}
+
 ### Purpose / Goal
 
 The purpose of this working group is to act as a permanent steering of the current Intersect community hubs program, refining the structure in a way we can achieve a sustainable, scalable operation. The group will provide support for hubs to improve their strategies and foster collaboration among them.
@@ -8,12 +10,9 @@ The Community Hubs Working Group (CHWG) aims to consolidate the lessons learned 
 
 The CHWG will focus on four main areas:
 
-1. Hubs Structure and Program Governance: Defining the scope of work for community hubs, including deliverables and operational guidelines to ensure an efficient and aligned operation with the program's mission.\
-
-2. Application and Selection Criteria for New Hubs: Establishing clear and objective criteria for the creation of new hubs as well as the selection criteria, based on governance guidelines and contributions from group members.\
-
-3. Refining the Hub Structure Over Time: Continuously improving the operational framework for hubs by integrating lessons learned, feedback from active hubs, and emerging best practices to ensure long-term success and adaptability.\
-
+1. Hubs Structure and Program Governance: Defining the scope of work for community hubs, including deliverables and operational guidelines to ensure an efficient and aligned operation with the program's mission.<br>
+2. Application and Selection Criteria for New Hubs: Establishing clear and objective criteria for the creation of new hubs as well as the selection criteria, based on governance guidelines and contributions from group members.<br>
+3. Refining the Hub Structure Over Time: Continuously improving the operational framework for hubs by integrating lessons learned, feedback from active hubs, and emerging best practices to ensure long-term success and adaptability.<br>
 4. Supporting a Sustainable and Scalable Operation: Hubs have the discretion to explore sustainability models by developing funding strategies that enable them to become self-sustaining over time, reducing reliance solely on Community Hub funding.
 
 The working document resulting from these areas must be completed by the CHWG, and all outcomes will be submitted for ratification by the MCC.
@@ -131,4 +130,4 @@ You will then be added to the meeting, held every Wednesday at 1pm UTC, as well 
 
 This charter is a living document. Amendments can be proposed by any member and will be reviewed and approved by the voting members of CHWG in a consent-based decision-making process to ensure it evolves to meet the needs of the growing ecosystem.
 
-\
+<br>

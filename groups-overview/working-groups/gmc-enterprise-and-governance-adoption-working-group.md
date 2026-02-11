@@ -1,5 +1,7 @@
 # GMC - Enterprise & Governance Adoption Working Group
 
+{% include "../../.gitbook/includes/archived.md" %}
+
 ### Purpose
 
 The Enterprise & Government Adoption (EGA) Working Group was established, following approval from the Growth and Marketing Committee, to explore ways to grow the adoption of Cardano by established enterprise businesses and government organisations.
@@ -127,4 +129,4 @@ Outcome-Driven: Prioritise delivering measurable impact, defining success by the
 
 This charter is a living document. Amendments can be proposed by any member and will be reviewed and approved by the voting members of EGA WG in a consent-based decision-making process to ensure it evolves to meet the needs of the growing ecosystem.
 
-\
+<br>

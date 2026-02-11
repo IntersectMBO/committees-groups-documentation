@@ -1,5 +1,7 @@
 # Node, CLI and API
 
+{% include "../../.gitbook/includes/archived.md" %}
+
 ## Purpose / Goal
 
 The Technical Working Group oversees development and maintenance of Cardano's node software, command line interface (CLI), and application programming interfaces (APIs). These components are essential for interacting with the Cardano blockchain.

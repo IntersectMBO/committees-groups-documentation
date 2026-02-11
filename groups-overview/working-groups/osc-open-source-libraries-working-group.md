@@ -1,4 +1,6 @@
-# Open Source Libraries Working Group
+# OSC - Open Source Libraries Working Group
+
+{% include "../../.gitbook/includes/archived.md" %}
 
 ### Purpose / Goal
 
@@ -47,4 +49,4 @@ Google Meet: Wednesdays 7:00-7:30 CST/ 12:00-12:30 UTC Bi-weekly&#x20;
 
 Link in Discord Events
 
-\
+<br>

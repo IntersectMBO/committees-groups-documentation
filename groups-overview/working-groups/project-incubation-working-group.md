@@ -4,7 +4,9 @@ description: >-
   Framework WG.
 ---
 
-# Project Incubation Working Group
+# OSC - Project Incubation Working Group
+
+{% include "../../.gitbook/includes/archived.md" %}
 
 {% hint style="info" %}
 This WG falls under the Open Source Committee

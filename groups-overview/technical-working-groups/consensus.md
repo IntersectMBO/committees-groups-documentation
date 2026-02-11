@@ -1,5 +1,7 @@
 # Consensus
 
+{% include "../../.gitbook/includes/archived.md" %}
+
 ## Purpose / Goal
 
 The Consensus Technical Working Group is responsbile for designing implemeting, and maintaining the consensus protocol for Cardano. This includes ensuring the security, scalability, and decentralization of the network.&#x20;

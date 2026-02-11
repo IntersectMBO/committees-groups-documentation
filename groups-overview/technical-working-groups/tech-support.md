@@ -4,6 +4,8 @@ description: This page is a brief description of the tech-support working and Di
 
 # Tech Support
 
+{% include "../../.gitbook/includes/archived.md" %}
+
 ## Purpose / Goal
 
 The technical support working group will provide technical support and guidance to its members. It will help find and troubleshoot new and existing issues, act as an initial escalation point, provide help, support, and guidance, and allow communication between its members.  The main purpose is to provide technical guidance and advice on Cardano and its components.

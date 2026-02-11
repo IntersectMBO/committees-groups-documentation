@@ -1,13 +1,14 @@
 # OSC - Developer Experience Working Group
 
+{% include "../../.gitbook/includes/archived.md" %}
+
 {% hint style="info" %}
 github.com/IntersectMBO/developer-experience
 {% endhint %}
 
 ## Purpose
 
-This is a community-driven group led by a team of developer advocates that is dedicated to:\
-
+This is a community-driven group led by a team of developer advocates that is dedicated to:<br>
 
 * Identifying and presenting potential solutions to developer experience problems that span the Cardano ecosystem.
 * Once a potential solution is identified, we work with actors in the ecosystem to find sponsorship to implement a solution.

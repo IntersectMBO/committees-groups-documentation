@@ -1,4 +1,6 @@
-# Infrastructure Working Group
+# TSC - Infrastructure Working Group
+
+{% include "../../.gitbook/includes/archived.md" %}
 
 {% hint style="info" %}
 Initial draft content; work in progress...
@@ -8,7 +10,7 @@ Initial draft content; work in progress...
 
 Create a meeting space for Infrastructure-related topics and liaise with what we do at the [Cardano Blockchain Infrastructure Alliance](https://www.cbia.io/).
 
-We look forward to discussing Cardano Infrastructure on Intersect's #wg-infrastructure channel, on calls and also on our [Discord](https://discord.gg/UspYS3nxXY). We also invite you to get o know us a bit via our [website](https://www.cbia.io/), CBIA's [youtube](https://www.youtube.com/@CardanoBlockchainInfraAlliance) and by following CBIA's [X account](https://twitter.com/cbia\_org).
+We look forward to discussing Cardano Infrastructure on Intersect's #wg-infrastructure channel, on calls and also on our [Discord](https://discord.gg/UspYS3nxXY). We also invite you to get o know us a bit via our [website](https://www.cbia.io/), CBIA's [youtube](https://www.youtube.com/@CardanoBlockchainInfraAlliance) and by following CBIA's [X account](https://twitter.com/cbia_org).
 
 ## Related committee
 

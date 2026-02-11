@@ -1,5 +1,7 @@
 # Partner Chains
 
+{% include "../../.gitbook/includes/archived.md" %}
+
 The Partner Chain Framework facilitates the creation and management of blockchains that integrate with the Cardano ecosystem.
 
 More information can be found in the [Partner Chains official repository](https://github.com/input-output-hk/partner-chains).

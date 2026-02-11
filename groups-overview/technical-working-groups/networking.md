@@ -1,13 +1,14 @@
 # Networking
 
+{% include "../../.gitbook/includes/archived.md" %}
+
 ## Purpose / Goal
 
 Technical Working Group focused on the networking side of Cardano - this includes:\
 \* Creating and maintaining connectivity between Cardano Nodes.\
 \* Seeking 'optimal' connectivity between nodes\
 \* Scheduling block and transaction diffusion and fetching\
-\* Proving tooling and testing environment for protocols and concurrency\
-
+\* Proving tooling and testing environment for protocols and concurrency<br>
 
 
 

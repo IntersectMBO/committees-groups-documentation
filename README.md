@@ -1,8 +1,6 @@
 # Committees Overview
 
-{% hint style="info" %}
-This page is subject to updates as Committee pages are aligned.&#x20;
-{% endhint %}
+{% include ".gitbook/includes/archived.md" %}
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Intersects Main Committees</p></figcaption></figure>
 

@@ -1,5 +1,7 @@
 # Special Interest Groups (SIGs)
 
+{% include "../../.gitbook/includes/archived.md" %}
+
 Intersect Special Interest Groups are a newer concept within Intersect. &#x20;
 
 Special Interest Groups are:

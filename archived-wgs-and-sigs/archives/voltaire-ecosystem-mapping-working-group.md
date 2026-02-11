@@ -1,5 +1,7 @@
 # Voltaire Ecosystem Mapping Working Group
 
+{% include "../../.gitbook/includes/archived.md" %}
+
 ## Purpose
 
 Map ecosystem roles, needs, and activities related to Voltaire. This can inform governance tooling strategy and help Cardano’s rich and complex community be seen and heard.

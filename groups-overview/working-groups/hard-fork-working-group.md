@@ -1,5 +1,7 @@
 # TSC - Hard Fork Working Group
 
+{% include "../../.gitbook/includes/archived.md" %}
+
 ## Purpose
 
 The Hard Fork working group supports one of Intersect's core pillars: _Orchestrate delivery of the community-approved Cardano Roadmap._

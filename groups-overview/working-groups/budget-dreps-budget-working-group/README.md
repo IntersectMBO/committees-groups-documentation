@@ -5,6 +5,8 @@ coverY: 0
 
 # Budget - DReps Budget Working Group
 
+{% include "../../../.gitbook/includes/archived.md" %}
+
 ## Purpose / Goal
 
 The DRep Working Group is focused on supporting DReps (Delegated Representatives) and preparing them for their crucial role in the budget approval process. This initiative ensures that DReps are well-informed and equipped to participate effectively in reviewing and approving the budget. Given the key responsibility DReps hold within the Cardano ecosystem, this onboarding and education process is essential to maintaining transparency, trust, and informed decision-making during budget approvals.

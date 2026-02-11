@@ -5,6 +5,8 @@ coverY: 0
 
 # TSC - Wallets Working Group
 
+{% include "../../.gitbook/includes/archived.md" %}
+
 {% hint style="info" %}
 Page last updated; 2024-07-29
 {% endhint %}

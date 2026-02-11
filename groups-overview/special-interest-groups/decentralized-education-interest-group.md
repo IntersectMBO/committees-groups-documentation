@@ -5,7 +5,9 @@ description: >-
   blockchain technology and community engagement.
 ---
 
-# Decentralized Education Interest Group
+# MCC - Decentralized Education Interest Group
+
+{% include "../../.gitbook/includes/archived.md" %}
 
 ## Purpose / Goal
 
@@ -15,7 +17,7 @@ The objective of the decentralized education interest group is to innovate and e
 
 ## Related committee
 
-[Membership and Community Committee (MCC)](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/ZqouSToCJnFmpkx5WZw5/ "mention")
+[Intersect-Membership and Community Committee (MCC)](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/ZqouSToCJnFmpkx5WZw5/ "mention")
 
 ## Interest group lead
 

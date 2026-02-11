@@ -1,5 +1,7 @@
 # TSC - Core Infrastructure Roadmap Working Group
 
+{% include "../../.gitbook/includes/archived.md" %}
+
 ## Purpose / Goal
 
 The purpose of the Core Infrastructure Roadmap working group is to support the following[ Intersect pillars](https://docs.intersectmbo.org/) on behalf of Intersect and its membership:

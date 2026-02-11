@@ -4,6 +4,8 @@ description: Duplicate this page as a template for your working group
 
 # WG - \[name] - template
 
+{% include "../.gitbook/includes/archived.md" %}
+
 ## Purpose / Goal
 
 to be updated by working group

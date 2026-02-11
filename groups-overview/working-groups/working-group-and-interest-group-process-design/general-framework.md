@@ -4,6 +4,8 @@ description: General Framework for Intersect Groups
 
 # General Framework
 
+{% include "../../../.gitbook/includes/archived.md" %}
+
 Last Modified: 2024-05-27
 
 {% hint style="info" %}

@@ -1,5 +1,7 @@
 # Product - Research Working Group
 
+{% include "../../.gitbook/includes/archived.md" %}
+
 {% hint style="info" %}
 This page is managed by the working group
 {% endhint %}
@@ -38,8 +40,7 @@ Through conducting fundamental research in areas like consensus algorithms (e.g.
 \
 A five-year vision for Cardano, outlining research priorities, objectives and proposed application areas under a number of thematic focus areas. This plan is informed by Cardano’s tenets, analysis of the research landscape and stakeholder consultations, reflecting on lessons learned over the past seven years to ensure Cardano reinforces its leadership and worldwide adoption.\
 \
-[Cardano Vision presentation (opens in Google slides)](https://docs.google.com/presentation/d/1B2MX1BlYJu5xa6KRix2vd_inTAAQLmoVINVrIb2oYzw/edit?usp=sharing)\
-
+[Cardano Vision presentation (opens in Google slides)](https://docs.google.com/presentation/d/1B2MX1BlYJu5xa6KRix2vd_inTAAQLmoVINVrIb2oYzw/edit?usp=sharing)<br>
 
 **2025 Work Program**
 
@@ -51,8 +52,7 @@ These include objectives, work plans, deliverables and resource allocation ensur
 \
 [Work Porgram 2025 - 20 Fundamental Research streams (opens in Google sheets)](https://docs.google.com/spreadsheets/d/1XtragK8dfzXbdVruo5X063ziBVd_R8Tz_05DapRt380/edit?usp=sharing) \
 \
-[Work Program 2025 - 6 Technology Validation streams (opens in Google sheets)](https://docs.google.com/spreadsheets/d/1BRPJoJ0s2Q1C1uswIejYmvUNAPIcnPohrh8ITT97my0/edit?usp=sharing)\
-
+[Work Program 2025 - 6 Technology Validation streams (opens in Google sheets)](https://docs.google.com/spreadsheets/d/1BRPJoJ0s2Q1C1uswIejYmvUNAPIcnPohrh8ITT97my0/edit?usp=sharing)<br>
 
 **Communication & Dissemination**
 

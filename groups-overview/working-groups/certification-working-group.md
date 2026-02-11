@@ -1,5 +1,7 @@
 # TSC - Certification Working Group
 
+{% include "../../.gitbook/includes/archived.md" %}
+
 {% hint style="info" %}
 We're woking on this page … for the moment you can find out all about the working group at our github page here: [https://github.com/input-output-hk/Certification-working-group](https://github.com/input-output-hk/Certification-working-group)
 {% endhint %}

@@ -6,6 +6,8 @@ description: >-
 
 # MCC - Transparency Special Interest Group
 
+{% include "../../.gitbook/includes/archived.md" %}
+
 {% hint style="info" %}
 
 {% endhint %}
@@ -38,4 +40,4 @@ As per members in Discord
 
 This working group meeting on Tuesdays - details can be found [here](https://discord.gg/Bz4dTjW5?event=1250144605647671418)
 
-Transcripts of meetings can be found [here](https://drive.google.com/drive/folders/1HWVLEz1nkrW9G4lszi5poVKZt\_-JGDvR?usp=sharing)
+Transcripts of meetings can be found [here](https://drive.google.com/drive/folders/1HWVLEz1nkrW9G4lszi5poVKZt_-JGDvR?usp=sharing)

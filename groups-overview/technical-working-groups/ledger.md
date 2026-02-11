@@ -1,5 +1,7 @@
 # Ledger
 
+{% include "../../.gitbook/includes/archived.md" %}
+
 ## Purpose / Goal
 
 The Ledger Technical Working Group focuses on the ledger layer of Cardano, which handles transaction validation, UTXO management, and overall blockchain state. Ensuring the integrity and correctness of the ledger is crucial for Cardano's success.

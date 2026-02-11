@@ -4,7 +4,9 @@ description: >-
   draft of the Intersect General Framework.
 ---
 
-# Working Group and Interest Group Process Design
+# MCC - Working Group and Interest Group Process Design
+
+{% include "../../../.gitbook/includes/archived.md" %}
 
 ## Purpose
 

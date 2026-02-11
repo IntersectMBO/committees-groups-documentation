@@ -1,6 +1,6 @@
 # Working Group Frequently Asked Questions (FAQs)
 
-
+{% include "../../.gitbook/includes/archived.md" %}
 
 {% hint style="info" %}
 This page will be frequently updated with recently asked questions.  If you have any questions please contact the [committee liaison](mailto:karen.wickham@intersectmbo.org)

@@ -1,5 +1,7 @@
 # Committee Maturity Framework
 
+{% include "../../.gitbook/includes/archived.md" %}
+
 The table below is the maturity framework which we are assessing each of the committees by.  Our ambition is to have each of the committees to fully operational by 30th June 2024
 
 Below is a table which contains the maturity matrix which we assess each of the committees by, our ambition is to have all committees to fully operational by 30 June 2024.

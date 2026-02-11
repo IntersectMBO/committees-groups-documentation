@@ -1,5 +1,7 @@
 # Groups Overview
 
+{% include "../../.gitbook/includes/archived.md" %}
+
 {% hint style="info" %}
 The definitions for working groups and special interest groups have been aligned,  if you have any thoughts please add them to the [discord channel](https://discord.com/channels/1136727663583698984/1235113257312849950).
 
@@ -48,7 +50,7 @@ Active Working Groups are being confirmed a revised graphic will be published by
 
 
 
-If you have a proposal for a working group we recommend engaging with the [committee ](broken-reference)you feel this aligns with in the first instance, if you are unsure you can start by forming a Special Interest Group and attending Committee meetings.
+If you have a proposal for a working group we recommend engaging with the [committee ](/broken/pages/rqvHnPi8yivNKvOzu3Wx)you feel this aligns with in the first instance, if you are unsure you can start by forming a Special Interest Group and attending Committee meetings.
 
 Please don't hesitate in contacting the a [committee ](https://intersect.gitbook.io/committee-overview)or the [Committee Liaison](mailto:karen.wickham@intersectmbo.org) if you have any questions. &#x20;
 

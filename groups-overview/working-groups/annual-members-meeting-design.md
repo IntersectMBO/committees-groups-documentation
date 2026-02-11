@@ -4,6 +4,8 @@ description: Duplicate this page as a template for your working group
 
 # MCC - Annual Members Meeting Design
 
+{% include "../../.gitbook/includes/archived.md" %}
+
 {% hint style="info" %}
 This is a new working group (as at 15 July).  This page will be populated shortly.
 {% endhint %}

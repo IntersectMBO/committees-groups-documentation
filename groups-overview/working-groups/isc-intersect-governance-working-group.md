@@ -1,5 +1,7 @@
 # ISC - Intersect Governance Working Group
 
+{% include "../../.gitbook/includes/archived.md" %}
+
 ### Purpose/Goal
 
 The Intersect Governance Working Group was established by recommendation from the ISC to support and enhance the governance framework of Intersect. Its role is to develop, refine, and recommend governance processes that ensure transparency, accountability, and effective collaboration between Intersect keys stakeholders. While the group does not have decision-making authority, it plays a critical role in shaping governance best practices, aligning committee structures, and fostering strong organizational oversight.

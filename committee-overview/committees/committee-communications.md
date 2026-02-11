@@ -1,5 +1,7 @@
 # Committee Communications
 
+{% include "../../.gitbook/includes/archived.md" %}
+
 \
 Below is the basic communications plan for all comittees:
 

@@ -1,5 +1,7 @@
 # Committee Contact Information
 
+{% include "../../.gitbook/includes/archived.md" %}
+
 Here are the different ways you can find information or contact the Intersect Committees:
 
 ## Budget Committee:

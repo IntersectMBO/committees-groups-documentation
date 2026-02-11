@@ -2,7 +2,9 @@
 description: Duplicate this page as a template for your working group
 ---
 
-# Fundraising Special Interest Group
+# MCC - Fundraising Special Interest Group
+
+{% include "../../.gitbook/includes/archived.md" %}
 
 ## Purpose / Goal
 

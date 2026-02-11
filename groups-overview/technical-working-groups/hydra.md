@@ -4,6 +4,8 @@ description: Definition of the Layer 2 technical working group at Intersect.
 
 # Layer 2
 
+{% include "../../.gitbook/includes/archived.md" %}
+
 {% hint style="info" %}
 The working group is currently being formed and a [dedicated git repository](https://github.com/cardano-scaling/wg-layer2) was chosen to form [charter](https://github.com/cardano-scaling/wg-layer2/blob/main/README.md#hydra-working-group) and processes. This document here is a copy / index of important sections from the charter.&#x20;
 

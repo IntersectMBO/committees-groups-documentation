@@ -1,5 +1,7 @@
 # Plutus
 
+{% include "../../.gitbook/includes/archived.md" %}
+
 ## Purpose / Goal
 
 The Plutus Technical Working Group focuses on the development and advancement of Plutus, which is the smart contract execution platform for Cardano. Plutus enables secure and reliable execution of decentralized applications (DApps) on the Cardano blockchain.&#x20;

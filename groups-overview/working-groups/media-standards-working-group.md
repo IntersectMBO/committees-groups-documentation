@@ -5,7 +5,9 @@ description: >-
   Cardano ecosystem.
 ---
 
-# Media Standards Working Group
+# Civics - Media Standards Working Group
+
+{% include "../../.gitbook/includes/archived.md" %}
 
 By providing clear and accessible practices to media and education creators the entire community will benefit by the improvement to the information economy that exists within Cardano.
 
@@ -25,7 +27,7 @@ Open to journalists and media creators in the Cardano ecosystem who meet members
 
 ## Working group charter
 
-The Draft Charter is available on [Google drive](https://docs.google.com/document/d/1ePD6V\_7zCniRdyU6QZf7rJR7wYcXNkWsAaC\_Kr3Oals/edit#heading=h.4iyhl96hq5qf).&#x20;
+The Draft Charter is available on [Google drive](https://docs.google.com/document/d/1ePD6V_7zCniRdyU6QZf7rJR7wYcXNkWsAaC_Kr3Oals/edit#heading=h.4iyhl96hq5qf).&#x20;
 
 ## Working group deliverables
 

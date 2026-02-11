@@ -1,5 +1,7 @@
 # Committee Member Onboarding
 
+{% include "../../.gitbook/includes/archived.md" %}
+
 **Welcome to the Onboarding Pack for Elected Committee Members**
 
 This page contains the official onboarding slide deck designed to help newly elected committee members get up to speed. The presentation includes key information about your role, responsibilities, timelines, and tools you'll be using throughout your term. Please review the PDF before your onboarding call to familiarize yourself with the content.
