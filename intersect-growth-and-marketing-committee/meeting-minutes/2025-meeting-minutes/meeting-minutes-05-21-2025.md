@@ -1,0 +1,68 @@
+# Meeting Minutes 05/21/2025
+
+## Attendees:&#x20;
+
+| Name                     | Attendance | Role                        | Voting Seat (Y/N) | Election Cycle |
+| ------------------------ | ---------- | --------------------------- | ----------------- | -------------- |
+| TBD                      | No         | Chair                       | Y                 | <p><br></p>    |
+| Terence ‘Tex’ McCutcheon | Yes        | Secretary                   | N                 | N/A            |
+| TBD                      | No         | Vice Chair                  | Y                 | <p><br></p>    |
+| Laura M.                 | Yes        | Member - Cardano Foundation | Y                 | April 2026     |
+| Nathan A.                | No         | Member - EMURGO             | Y                 | October 2025   |
+| Tim H.                   | Yes        | Member - IOG                | Y                 | April 2026     |
+| Wes P.                   | Yes        | Member - Rare Network       | Y                 | October 2025   |
+| Mubarak O.               | No         | Member                      | Y                 | October 2025   |
+| Anuj C.                  | Yes        | Member                      | Y                 | April 2026     |
+| Andy H.                  | Yes        | Member                      | N                 | April 2026     |
+| Hasitha R.               | Yes        | Member                      | N                 | April 2026     |
+| TBD                      | No         | SME                         | N                 | N/A            |
+| TBD                      | No         | SME                         | N                 | N/A            |
+| TBD                      | No         | SME                         | N                 | N/A            |
+
+Other Guests:&#x20;
+
+* Adalink (Natalia)
+* Elizabeth Morrison
+* Gintama
+* Gnobudy John
+
+## Intros/COI
+
+**Andy:** TBD\
+**Anuj:** TBD\
+**Hasitha:** TBD\
+**Laura:** Laura Mattiucci, Director Marketing and Comms at CF\
+**Mubarak:** AKA Kit Willow: Voting member of the Growth and Marketing Committee.\
+Community member\
+**Nate:** Nate Acton, VP of Global Marketing at EMURGO\
+**Tim:** Tim Harrison, EVP Community & Ecosystem, Input | Output\
+**Tex:** Open Source Program Manager (Intersect), OSC Secretary, Committee Liaison\
+**Wes:** TBD
+
+## Agenda 5.21.25
+
+* &#x20;Open Forum
+
+## Decisions/Actions
+
+* The committee members will review the main onboarding deck and affiliations document.
+* Members interested in serving as Chair or Vice-Chair will signify their interest and provide reasoning in the GMC internal Discord channel for an official vote in a future meeting.
+* Members will familiarize themselves with Discord, Google Drive, and ClickUp.
+* AdaLink's survey document will be shared for review.
+* Existing reports (Cardano Foundation's ecosystem report, developer report) will be reviewed to identify gaps for the GTM strategy.
+* GMC will define its role and promote it to the community to enhance understanding and utilization.
+* Terence McCutcheon will put the proposed meeting time (Tuesdays at noon UTC) in Discord for confirmation, checking with Tim Harrison IO. &#x20;
+
+| Topic                                    | Discussion                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Action Items                                                                                                                                                                                                  |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Welcome and Introductions                | Terence McCutcheon welcomed new and returning members to the Growth Marketing Committee (GMC). Attendees introduced themselves, including Tim Harrison (Ecosystem Community Lead, IO), Andy Hung (Marketing and Business Development, Web3 in Japan), Laura Mattiucci (Head of Markcom and Communication, Cardano Foundation), Wes Parkinson (Founder, Rare Network), Anuj Chaudhary (Indian Community Engagement, Cardano Summit), and Hasitha Raymond (Marketing background, Sri Lanka). Terence McCutcheon introduced himself as the committee liaison and secretary. | All new members to review the main onboarding deck and affiliations document.                                                                                                                                 |
+| Community Feedback and Communication     | Tim Harrison IO and Anuj Chaudhary acknowledged the community's positive efforts in addressing recent misinformation. Tim noted that abrupt communication seemed effective in managing the "conflation" of information.                                                                                                                                                                                                                                                                                                                                                  | <p><br></p>                                                                                                                                                                                                   |
+| Previous Meeting Overview                | Tim Harrison IO briefly mentioned a previous housekeeping meeting where no major decisions were made due to lack of a ClickUp link for agenda items.                                                                                                                                                                                                                                                                                                                                                                                                                     | <p><br></p>                                                                                                                                                                                                   |
+| Onboarding Documents & Resources         | Terence McCutcheon reviewed key onboarding materials, including the affiliations piece (position, organization, conflicts of interest), an overview of Intersect (members-based organization facilitating Cardano's development and governance), and the role of GMC in marketing and growth. He also covered the Intersect board and senior leadership team.                                                                                                                                                                                                            | Members to review the onboarding deck at their leisure, available in the shared Google Drive.                                                                                                                 |
+| Committee Expectations & Structure       | Committee members are expected to dedicate approximately 20 hours per month. Meetings are currently weekly, with a 50/50 split on whether to continue weekly. The goal is to make calls open to the public, with private calls for sensitive matters. Transparency and asynchronous work are encouraged.                                                                                                                                                                                                                                                                 | Discuss and finalize meeting cadence (weekly vs. other).                                                                                                                                                      |
+| Chair and Vice-Chair Elections           | The committee needs to elect a Chair and a Vice-Chair. The Chair serves a 6-month term, with the Vice-Chair ideally stepping into the Chair role for continuity. Responsibilities include opening meetings, presenting agendas, facilitating discussions, and reporting to the Intersect Steering Committee.                                                                                                                                                                                                                                                             | Members interested in serving as Chair or Vice-Chair to signify their interest and provide reasoning in the G internal Discord channel for an official vote in a future meeting.                              |
+| Discord Server Structure and ClickUp     | Terence provided an overview of the Discord server structure and how to access shared drives and ClickUp. ClickUp will be used for agenda items and meeting minutes.                                                                                                                                                                                                                                                                                                                                                                                                     | Members to familiarize themselves with Discord, Google Drive, and ClickUp. Hasitha Raymond to confirm access to ClickUp and shared drives.                                                                    |
+| Product Vision Questionnaire & GTM Plan  | Tim Harrison IO suggested creating a consolidated "Go-To-Market" (GTM) plan, potentially involving a survey, to align the committee's priorities, justify budget items, and understand community pain points. AdaLink mentioned their existing survey for startups to identify marketing needs, offering to share results and collaborate.                                                                                                                                                                                                                               | Share AdaLink's survey document for review. Review existing reports (Cardano Foundation's ecosystem report, developer report) to identify gaps for the GTM strategy.                                          |
+| Cardano Branding & Intellectual Property | The discussion touched upon the complexities of Cardano's branding and intellectual property. Laura Mattiucci explained that while the Cardano Foundation can assist with branding guidelines and assets, formal IP discussions require legal expertise.                                                                                                                                                                                                                                                                                                                 | <p><br></p>                                                                                                                                                                                                   |
+| GMC Role and Public Perception           | Wes Parkinson emphasized the need for GMC to clearly define and promote its role to the community, particularly to DREPs, to ensure their efforts are understood and utilized in future budgeting and voting processes.                                                                                                                                                                                                                                                                                                                                                  | GMC to define its role and promote it to the community to enhance understanding and utilization. Existing members to share grievances and lessons learned; new members to provide outside perceptions of GMC. |
+| Meeting Time Adjustment                  | Discussion on adjusting the recurring meeting time to accommodate members in different time zones. A poll indicated a preference for moving the meeting 30 minutes earlier.                                                                                                                                                                                                                                                                                                                                                                                              | Terence McCutcheon to put proposed meeting time (Tuesdays at noon UTC) in Discord for confirmation, checking with Tim Harrison IO.                                                                            |
