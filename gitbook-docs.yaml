@@ -1,0 +1,71 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Intersect Committee Spaces
+  structure:
+    - type: space
+      key: space-1
+      title: Intersect - Committees & Groups
+      path: intersect-committees-and-groups
+      default: true
+      content:
+        directory: ./intersect-committees-and-groups
+    - type: space
+      key: space-2
+      title: Intersect elections - 2024
+      path: intersect-elections-2024
+      content:
+        directory: ./elections
+    - type: space
+      key: space-3
+      title: Intersect - Budget Committee
+      path: intersect-budget-committee
+      content:
+        directory: ./intersect-budget-committee
+    - type: space
+      key: space-4
+      title: Intersect - Civics Committee
+      path: intersect-civics-committee
+      content:
+        directory: ./intersect-civics-committee
+    - type: space
+      key: space-5
+      title: Intersect-Membership and Community Committee (MCC)
+      path: intersect-membership-community-committee
+      content:
+        directory: ./intersect-membership-community-committee
+    - type: space
+      key: space-6
+      title: Intersect - Technical Steering Committee
+      path: intersect-technical-steering-committee
+      content:
+        directory: ./intersect-technical-steering-committee
+    - type: space
+      key: space-7
+      title: Intersect - Parameter Sub Committee
+      path: intersect-parameter-committee
+      content:
+        directory: ./intersect-parameter-committee
+    - type: space
+      key: space-8
+      title: Intersect - Open Source Committee
+      path: intersect-open-source-committee
+      content:
+        directory: ./open-source-committee
+    - type: space
+      key: space-9
+      title: Intersect -  Product committee
+      path: intersect-product-committee
+      content:
+        directory: ./intersect-product-committee
+    - type: space
+      key: space-10
+      title: Intersect - Growth & Marketing Committee
+      path: intersect-growth-marketing-committee
+      content:
+        directory: ./intersect-growth-and-marketing-committee
+    - type: space
+      key: space-11
+      title: Intersect - Steering Committee
+      path: intersect-steering-committee
+      content:
+        directory: ./intersect-steering-committee
