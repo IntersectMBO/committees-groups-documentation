@@ -30,8 +30,7 @@ However, chairing meetings alone is not enough. As Chairman, I would prioritize 
 
 Additionally, the Steering Committee plays a critical role in coordinating the work of all committees, and I am committed to facilitating this coordination effectively. I would work closely with not only the Civics Committee but also the other key committees to ensure that their efforts are in line with the broader goals of IntersectMBO. By ensuring that governance initiatives are aligned with the long-term vision for sustainability, decentralization, and open-source collaboration, I would help steer the collective efforts toward promoting stability and transparency within the Cardano ecosystem. In doing so, I would contribute to creating a governance structure that supports organic growth and long-term success for Cardano.
 
-\
-
+<br>
 
 </details>
 

@@ -31,8 +31,7 @@ The form will contain a number of questions for each applicant to answer as note
 ## Seed Funding Organisation Employees (EMURGO & IOG)
 
 We have established a bespoke process for our seed funding organisation employees.\
-In the first instance please seek approval from your home organisation to apply.  Then join Intersect as an associate using your home organisation email.  When the application process opens you will be able to apply for a committee through your member portal.  Please note if you receive a "please join as an individual member" email you can disregard this and your application will still be processed.  We are currently trying to ensure this email is not triggered.\
-
+In the first instance please seek approval from your home organisation to apply.  Then join Intersect as an associate using your home organisation email.  When the application process opens you will be able to apply for a committee through your member portal.  Please note if you receive a "please join as an individual member" email you can disregard this and your application will still be processed.  We are currently trying to ensure this email is not triggered.<br>
 
 Please ensure you use your home organisation (EMURGO or IOG) email as this will be how we verify you are part of a seed funding organisation.  Please also note that you are part of a seed funding organisation in the affiliation section of the application.
 

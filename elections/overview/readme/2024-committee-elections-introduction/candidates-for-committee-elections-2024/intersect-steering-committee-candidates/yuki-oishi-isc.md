@@ -20,7 +20,7 @@ Yes
 
 <summary>Is there a particular role within the committee that you are interested in, if so which and why? (if applicable)</summary>
 
-#### I would like to be a regular voting member, not a chair or secretary. Reason: Given the large number of meetings, it would be better for a native English speaker to be the chair or secretary.
+**I would like to be a regular voting member, not a chair or secretary. Reason: Given the large number of meetings, it would be better for a native English speaker to be the chair or secretary.**
 
 議長や秘書ではない通常の投票メンバーのロールを希望します。 理由：多くのミーティングを想定するとネイティブ英語話者が議長や秘書になる方が良いでしょう。
 

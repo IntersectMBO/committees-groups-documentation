@@ -10,8 +10,7 @@ MCC Criteria:
 
 <summary>Candidates Full Name</summary>
 
-Akheel Fouze\
-
+Akheel Fouze<br>
 
 </details>
 

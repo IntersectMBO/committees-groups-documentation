@@ -22,9 +22,8 @@ The Intersect board seats are currently held by:
 | 5           | Member     | -            | -                  | Vacant Seat        |
 | <p><br></p> | Secretary  | -            | Intersect          | Lawrence Clark     |
 
-\
-
+<br>
 
 ## Open seats for election
 
-As part of the Intersect AMM, the two membership seats will be subject to a vote by the membership. Any member may apply to serve on the Interact board.\
+As part of the Intersect AMM, the two membership seats will be subject to a vote by the membership. Any member may apply to serve on the Interact board.<br>

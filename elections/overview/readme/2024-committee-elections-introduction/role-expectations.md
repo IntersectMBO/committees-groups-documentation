@@ -43,7 +43,6 @@ The committee chair will also represent the committee at the Intersect Executive
 This role will be non voting role and performed by an Intersect administration team member.
 
 \
-\
+<br>
 
-
-\
+<br>

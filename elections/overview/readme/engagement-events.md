@@ -54,20 +54,19 @@ Please note that some items are still work in progress so the information provid
 
 [Recording](https://drive.google.com/file/d/1cEpYt8HaN6tJsw5pgEJARlGMa1JTFiqq/view?usp=sharing)
 
-[Transcript](https://docs.google.com/document/d/1rdEVwgG59\_p90YUlS0Q\_k1Caasx1kSgK-8nVE\_sLuUo/edit?usp=sharing)
+[Transcript](https://docs.google.com/document/d/1rdEVwgG59_p90YUlS0Q_k1Caasx1kSgK-8nVE_sLuUo/edit?usp=sharing)
 
 ### Engagement Event 23rd August
 
-[Recording](https://drive.google.com/file/d/1tsRHBd0LHFi9o0opss3AU6\_5dXdXjMPn/view?usp=sharing)
+[Recording](https://drive.google.com/file/d/1tsRHBd0LHFi9o0opss3AU6_5dXdXjMPn/view?usp=sharing)
 
-[Transcript](https://docs.google.com/document/d/1mFJFuG1IplEWhxp3zLoHLa5NVJJ0erKrTCVbq5sLfew/edit?usp=sharing)\
-
+[Transcript](https://docs.google.com/document/d/1mFJFuG1IplEWhxp3zLoHLa5NVJJ0erKrTCVbq5sLfew/edit?usp=sharing)<br>
 
 ## Candidate X-Space Events
 
 * [Mon 7th Oct - Board and ISC Candidate X-Space](https://x.com/i/spaces/1yNGagnOqYRxj)
 * [Thu 10th Oct - OSC Candidate X-Space (hosted by @IntersectOSO)](https://discord.com/events/1136727663583698984/1291393763113046096)
-* [Sun 13th Oct - MCC Candidate X-Space (hosted by MCC X Space)](https://x.com/Intersect\_MCC/status/1843526576488780025)
+* [Sun 13th Oct - MCC Candidate X-Space (hosted by MCC X Space)](https://x.com/Intersect_MCC/status/1843526576488780025)
 * [Mon 14th Oct - Product and TSC Candidate X-Space](https://x.com/i/spaces/1yoKMyrjpbeKQ)
 * [Wed 16th Oct - Civics and Budget Candidate X-Space](https://x.com/i/spaces/1ynKODdwNwEGR)
 

@@ -10,8 +10,7 @@ Cardano Civics Committee Criteria:
 
 <summary>Candidates Full Name</summary>
 
-Jose Velazquez\
-
+Jose Velazquez<br>
 
 </details>
 

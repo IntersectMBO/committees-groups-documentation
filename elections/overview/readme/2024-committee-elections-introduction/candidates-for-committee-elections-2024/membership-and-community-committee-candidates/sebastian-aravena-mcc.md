@@ -10,8 +10,7 @@ MCC Criteria:
 
 <summary>Candidates Full Name</summary>
 
-Sebastián Aravena\
-
+Sebastián Aravena<br>
 
 </details>
 

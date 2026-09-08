@@ -10,7 +10,7 @@ Cardano Civics Committee Criteria:
 
 <summary>Candidates Full Name</summary>
 
-#### Brandon Cartwright
+**Brandon Cartwright**
 
 </details>
 

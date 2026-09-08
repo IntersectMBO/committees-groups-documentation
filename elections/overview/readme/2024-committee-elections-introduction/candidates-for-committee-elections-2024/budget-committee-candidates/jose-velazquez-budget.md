@@ -15,8 +15,7 @@ Budget Committee Criteria:&#x20;
 
 <summary>Candidates Full Name</summary>
 
-Jose Velazquez\
-
+Jose Velazquez<br>
 
 </details>
 
