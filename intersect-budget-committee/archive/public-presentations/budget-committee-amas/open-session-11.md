@@ -1,0 +1,41 @@
+# Open Session #11
+
+
+
+{% embed url="https://youtu.be/LAizhYpb1NQ" %}
+AMA [open-session-11.md](open-session-11.md "mention")
+{% endembed %}
+
+<details>
+
+<summary>Session Summary:</summary>
+
+The latest Cardano Budget Committee AMA session focused on budget presentations from the Open Source Committee (OSC) and the Membership and Community Committee (MCC). Representatives from both committees shared their plans for 2025, outlining key priorities, funding allocations, and opportunities for community participation. The discussion aimed to provide insight into the committees’ strategic goals and answer questions from the Cardano community.
+
+The session began with Tex, secretary of the OSC, presenting the committee’s initiatives for 2025. He was joined by committee chair Lucas, with additional insights provided by Adam. The OSC's primary objectives revolve around expanding open-source development within the Cardano ecosystem, decentralizing core development, and providing long-term support for key infrastructure projects. To achieve this, the OSC proposed several key initiatives, including the **Maintainer Retainer Program**, which seeks to bring community contributors into Cardano’s core repositories, gradually transitioning them to maintainer roles. This program aims to decentralize development beyond the founding entities while ensuring knowledge transfer and collaboration between new and experienced maintainers.
+
+The OSC also proposed budget allocations for **core operations**, including repository management, development monitoring in partnership with Beura, and funding for developer advocates to expand outreach in regions such as Africa, India, and North America. Additionally, a **24/7 maintenance and security support team** was proposed to handle immediate technical issues within the Cardano ecosystem, ensuring quick response times for critical incidents. The **Project Support Services** initiative was introduced as part of a paid open-source model, designed to provide governance, strategy, and sustainability support to emerging projects. This includes a structured approach to assisting teams in integrating their work with core Cardano infrastructure.
+
+A notable addition to the OSC’s plans is the **Summer of Code program**, inspired by Google’s Summer of Code, aimed at nurturing new developers through structured mentorship and training. The committee also discussed funding for **community integration and events**, including hackathons and developer-focused workshops, as well as a bounty program for addressing high-priority issues in the ecosystem. Tex emphasized that these programs align with Cardano’s broader vision of increasing decentralization and fostering innovation through open-source contributions.
+
+During the Q\&A session, community members raised important questions about the maintainers' selection process, global participation, and the feasibility of integrating automated funding mechanisms for developers. Jonah asked whether the OSC was working on tooling to facilitate fund distribution between maintainers and contributors. Lloyd clarified that fund distribution is managed by **Intersect’s Core Services**, which ensures that committee-approved expenditures go through a structured approval process before payments are made. Tex added that discussions with Andamio, a platform specializing in developer certification and funding mechanisms, were already underway, indicating potential future integrations.
+
+The conversation also touched on governance structures and the broader role of the OSC in supporting decentralized development. Mercy inquired about ensuring broad global participation in the maintainer program and the Summer of Code initiative. Tex responded that the committee is actively working on a **contribution ladder** to outline clear paths for developers to become maintainers, with efforts focused on engaging a diverse set of participants worldwide. Adam provided additional insights on how maintainers will not be full-time salaried employees but will receive stipends to support their contributions while maintaining a level of independence from contracted developers.
+
+Following the OSC presentation, Nori from the MCC took the floor to discuss the committee’s goals for **enhancing community engagement, supporting education initiatives, and administering grant programs**. The MCC focuses on championing member value within Intersect by organizing events, providing educational resources, and fostering collaboration within the Cardano ecosystem. The committee’s budget proposal aligns with four key areas: **increasing usage, governance, business operations, and vision**.
+
+One of the major components of the MCC’s budget is **community grants**, which aim to provide funding for non-technical ecosystem projects, including language accessibility initiatives, time zone accessibility improvements, and expanded community hubs. The MCC is also collaborating with Catalyst to direct 10% of its budget towards developer grants that fund new product and feature requests within Cardano. Additionally, the MCC is launching an **educational membership tier** that will provide free access to blockchain and Cardano-related content, creating a university network, funding internships, and establishing a talent database to support workforce development within the ecosystem.
+
+The MCC’s proposal also included funding for **grant administration**, which currently relies on a single dedicated staff member but is supported by a working group and core services. Other key initiatives include **Intersect marketing**, which covers town halls, membership drives, and event sponsorships, and **on-chain governance education**, developed in collaboration with the Civics Committee to improve community understanding of governance participation.
+
+A critical discussion point was ensuring efficient coordination between the OSC, TSC, and MCC to prevent redundant funding efforts. Adam raised concerns about potential overlaps between technical grants from MCC, OSC’s Code Forest program, and TSC’s core development budget. Nori reassured the community that committees are actively working together to align funding streams and ensure that each committee’s responsibilities are clearly defined.
+
+Another topic of interest was the future of **Cardano’s marketing efforts**. Pete inquired about the scope and scale of marketing initiatives under MCC, expressing interest in whether the committee would engage external firms or primarily rely on internal efforts. Nori clarified that MCC’s marketing budget is focused on **Intersect’s brand awareness and membership engagement**, rather than broader Cardano promotion. Plans are underway to establish a **dedicated Cardano Marketing Committee**, separate from MCC, which will oversee ecosystem-wide marketing initiatives.
+
+The session concluded with an update on **the net change limit discussion**. The Budget Committee is proposing a **350 million ADA withdrawal cap for 2025**, ensuring that no more than this amount can be removed from the treasury within the given period. This figure is based on projected funding needs while maintaining sustainable treasury management. Adam and other community members raised concerns about how this figure was calculated, highlighting the importance of clear definitions and ensuring that the net change limit accounts for inflows and outflows appropriately. Lloyd confirmed that discussions are ongoing to refine the terminology and align definitions within the governance framework.
+
+As the meeting wrapped up, community members were encouraged to **continue participating in upcoming sessions** and providing feedback on budget allocations. Plans were made to schedule further discussions on **governance funding, project Catalyst’s budget request, and Cardano’s marketing strategy**. The session reinforced the importance of **collaboration, transparency, and strategic planning** in shaping Cardano’s financial future.
+
+</details>
+
+Join us for the latest town hall covering Intersect's 2025 budget proposals. Discussion includes updates from the Open Source Committee (OSC) and Membership & Community Committee (MCC), featuring details on developer programs, community grants, education initiatives, and treasury management.
