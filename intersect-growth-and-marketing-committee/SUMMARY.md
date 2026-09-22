@@ -109,3 +109,9 @@
       * [July 15, 2025](working-group/enterprise-and-government-adoption-wg/working-group-meeting-notes/2025/july-15-2025.md)
       * [June 17, 2025](working-group/enterprise-and-government-adoption-wg/working-group-meeting-notes/2025/june-17-2025.md)
       * [June 3, 2025](working-group/enterprise-and-government-adoption-wg/working-group-meeting-notes/2025/june-3-2025.md)
+
+## Articles
+
+* [From Capability to Adoption](articles/from-capability-to-adoption/README.md)
+  * [Appendix: Supporting Evidence](articles/from-capability-to-adoption/appendix-supporting-evidence.md)
+* [Page 1](articles/page-1.md)
