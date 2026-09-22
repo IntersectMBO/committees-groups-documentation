@@ -114,4 +114,4 @@
 
 * [From Capability to Adoption](articles/from-capability-to-adoption/README.md)
   * [Appendix: Supporting Evidence](articles/from-capability-to-adoption/appendix-supporting-evidence.md)
-* [Page 1](articles/page-1.md)
+* [Growing Cardano DeFi](articles/growing-cardano-defi.md)

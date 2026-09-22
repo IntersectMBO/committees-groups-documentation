@@ -121,11 +121,3 @@ The GMC supports the ecosystem by:
 This guide is intended as an educational resource. It does not recommend specific proposals, endorse proposers, or replace the role of DReps or other governance bodies.
 
 Its objective is to support funding decisions that lead to long-term growth.
-
-\
-\
-\
-\
-\
-\
-<br>
