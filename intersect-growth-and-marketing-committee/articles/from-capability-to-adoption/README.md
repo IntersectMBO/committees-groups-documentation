@@ -1,6 +1,5 @@
 ---
 description: A Practical Guide for Evaluating Proposals and Bringing Growth to Cardano
-hidden: true
 ---
 
 # From Capability to Adoption
