@@ -10,12 +10,6 @@ site:
       content:
         directory: ./intersect-committees-and-groups
     - type: space
-      key: space-2
-      title: Intersect elections - 2024
-      path: intersect-elections-2024
-      content:
-        directory: ./elections
-    - type: space
       key: space-3
       title: Intersect - Budget Committee
       path: intersect-budget-committee
@@ -26,25 +20,25 @@ site:
       title: Intersect - Civics Committee
       path: intersect-civics-committee
       content:
-        directory: ./intersect-civics-committee
+        directory: null
     - type: space
       key: space-5
       title: Intersect-Membership and Community Committee (MCC)
       path: intersect-membership-community-committee
       content:
-        directory: ./intersect-membership-community-committee
+        directory: null
     - type: space
       key: space-6
       title: Intersect - Technical Steering Committee
       path: intersect-technical-steering-committee
       content:
-        directory: ./intersect-technical-steering-committee
+        directory: null
     - type: space
       key: space-7
       title: Intersect - Parameter Sub Committee
       path: intersect-parameter-committee
       content:
-        directory: ./intersect-parameter-committee
+        directory: null
     - type: space
       key: space-8
       title: Intersect - Open Source Committee
@@ -53,10 +47,10 @@ site:
         directory: ./open-source-committee
     - type: space
       key: space-9
-      title: Intersect -  Product committee
+      title: EN
       path: intersect-product-committee
       content:
-        directory: ./intersect-product-committee
+        directory: null
     - type: space
       key: space-10
       title: Intersect - Growth & Marketing Committee
@@ -68,4 +62,4 @@ site:
       title: Intersect - Steering Committee
       path: intersect-steering-committee
       content:
-        directory: ./intersect-steering-committee
+        directory: null
