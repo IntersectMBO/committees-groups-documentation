@@ -3,12 +3,12 @@ site:
   title: Intersect Committee Spaces
   structure:
     - type: space
-      key: space-1
-      title: Intersect - Committees & Groups
-      path: intersect-committees-and-groups
+      key: space-2
+      title: Committee Overview
+      path: committee-overview
       default: true
       content:
-        directory: ./intersect-committees-and-groups
+        directory: ./committee-overview
     - type: space
       key: space-3
       title: Intersect - Budget Committee
@@ -63,10 +63,3 @@ site:
       path: intersect-steering-committee
       content:
         directory: null
-    - type: space
-      key: space-2
-      title: Committee Overview
-      path: committee-overview
-      draft: true
-      content:
-        directory: ./committee-overview
