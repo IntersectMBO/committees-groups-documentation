@@ -47,7 +47,7 @@ site:
         directory: ./open-source-committee
     - type: space
       key: space-9
-      title: EN
+      title: Intersect - Cardano Product Committee
       path: intersect-product-committee
       content:
         directory: null
@@ -63,3 +63,10 @@ site:
       path: intersect-steering-committee
       content:
         directory: null
+    - type: space
+      key: space-2
+      title: Committee Overview
+      path: committee-overview
+      draft: true
+      content:
+        directory: ./committee-overview
