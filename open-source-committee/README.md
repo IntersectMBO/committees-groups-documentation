@@ -1,148 +1,33 @@
 # Open Source Committee (OSC)
 
-## What is the Open Source Committee (OSC)?
+<p align="center">The Open Source Committee exists to support Cardano, as an Open Source project, and to provide guidance, support, and oversight for Intersect's open source initiativest.</p>
 
-The Open Source Committee (OSC) is a decision-making committee that brings together relevant stakeholders from within the Cardano Ecosystem. The purpose of the OSC is to use the knowledge and observations of these committee members in order to provide guidance, support, and oversight for Intersect's open source initiatives, ensuring alignment with overall business objectives.
+<p align="center">We facilitate and oversee. Cardano's governance depends on work that nobody is obliged to do: the Constitution had to be consulted on, Constitutional Committee seats have to be refilled when they expire, tooling has to be maintained and paid for. We make sure that work has a mandate, a process, the people to do it, and someone seeing it through to the end.</p>
 
-The Open Source Committee acts autonomously supervising and directing actions of Intersect’s Open Source Office (OSO). The OSO oversees the management of Intersect maintained projects (Repositories, Teams, & Security), also the methods and processes of the open source development life-cycle.
+<h4 align="center">About the Civics Committee</h4>
 
-The OSC is responsible to handle any dispute resolution that may be required between Projects, Technical, or Business teams. The OSC remains available to consult upon the validity of technical contracts managed by the Technical Steering Committee. The remaining Committees, Intersect Staff, and the Community are encouraged to reach the OSC at any time for clarity on any open source topic.
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Who sits on the committee, and when each term rotates.</td><td><a href="about/readme/committee-members.md">committee-members.md</a></td><td><a href=".gitbook/assets/1.png">1.png</a></td></tr><tr><td>What each current group was set up to do, what it delivered, and whether it is still running.</td><td><a href="https://app.gitbook.com/s/LBdnzp0eZpGri9sVpseI/working-groups">Working Groups</a></td><td><a href=".gitbook/assets/3.png">3.png</a></td></tr><tr><td>Observe a meeting, join a working group, or stand for election.</td><td><a href="about/readme/osc-engagement.md">osc-engagement.md</a></td><td><a href=".gitbook/assets/4.png">4.png</a></td></tr></tbody></table>
 
-### Mission
+***
 
-Intersect’s Open Source Committee fosters the development and evolution of Cardano as a community-led, decentralized open-source project. Our mission is to support the growth of Cardano through community-driven decision-making. We are committed to providing tools, policies, and guidance to ensure its success, adaptability, and accessibility.
+<h4 align="center">Our current work</h4>
 
-### Vision
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Details on All 10 'planned' Programs under the Paid Open Source Model</td><td><a href="about/paid-open-source-model-posm/">paid-open-source-model-posm</a></td><td><a href=".gitbook/assets/intersect-all-open-source-committee.png">intersect-all-open-source-committee.png</a></td></tr><tr><td>The strategy for Cardano and related projects specific to open source methodologies. </td><td><a href="about/open-source-strategy.md">open-source-strategy.md</a></td><td><a href=".gitbook/assets/intersect-all-open-source-committee.png">intersect-all-open-source-committee.png</a></td></tr><tr><td>Developer Experience for Cardano. <a href="https://devex.intersectmbo.org">devex.intersectmbo.org</a></td><td><a href="working-groups/developer-experience-working-group/">developer-experience-working-group</a></td><td><a href=".gitbook/assets/intersect-all-open-source-committee.png">intersect-all-open-source-committee.png</a></td></tr></tbody></table>
 
-The Open Source Committee envisions a future where the Cardano Open Source Project (COSP) is strongly led by a thriving and diverse community, with its development process free from dominance by any single entity.
+***
 
-We foresee a future where the project is known for both its technological excellence and its democratic, inclusive development process. Cardano will exemplify a decentralized and stable ecosystem where every contributor plays its part.
+<h4 align="center">Our previous work</h4>
 
-### OSC responsibilities:
+<p align="center">What the committee has delivered since October 2023. </p>
 
-* Manage and oversee the allocation and use of OSC Budget
-* Provide strategic direction and input on Intersect's open-source initiatives and policies
-* Review and approve the OSO Annual Roadmap
-* Manage and lead various working groups
-* Evaluate the output of working groups and the OSO
-* Oversee OSO Project Support Services, such as project selection and vendor review
-* Conduct annual performance reviews for OSO Personnel
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>TBD</td><td></td><td><a href=".gitbook/assets/intersect-all-open-source-committee.png">intersect-all-open-source-committee.png</a></td></tr></tbody></table>
 
-### OSC Core Values
+***
 
-**Open:**\
-\&#xNAN;_Maintain the openness of the COSP_
+<h4 align="center">Meeting minutes</h4>
 
-The OSC encourages the open, canonical, and trusted standing of the COSP within the community.
+<p align="center">Every meeting since 15 December 2023 is published, following a process the committee agreed in September 2024.</p>
 
-This is important because COSP is more than a collection of open source GitHub repositories; it represents the source code for the binaries deployed onto the Cardano mainnet, via the Haskell node.
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>2026</strong></td><td>The current year.</td><td><a href="osc-meeting-minutes/open-source-committee-meeting-minutes/2026-meeting-minutes/">2026-meeting-minutes</a></td><td><a href=".gitbook/assets/8.png">8.png</a></td></tr><tr><td><strong>2025</strong></td><td>Constitution ratified, first full Constitutional Committee election, governance health and education working groups formed.</td><td><a href="osc-meeting-minutes/open-source-committee-meeting-minutes/2025-meeting-minutes/">2025-meeting-minutes</a></td><td><a href=".gitbook/assets/9.png">9.png</a></td></tr><tr><td><strong>2024</strong></td><td>Constitutional drafting, 60+ community workshops, and the Convention in Argentina.</td><td><a href="osc-meeting-minutes/open-source-committee-meeting-minutes/2024-meeting-minutes/">2024-meeting-minutes</a></td><td><a href=".gitbook/assets/10.png">10.png</a></td></tr></tbody></table>
 
-**Sustainable:**\
-\&#xNAN;_Ensure the continued development of the COSP._
-
-The OSC is dedicated to fostering the long-term growth, stability, and ecological integrity of the Cardano blockchain. Our mission is to ensure that Cardano’s development adheres to principles of integrity, openness, quality, and community.
-
-Through strategic planning, stakeholder engagement, and rigorous evaluation, the OSC is committed to making Cardano a model for sustainable blockchain innovation.
-
-**Quality:**\
-\&#xNAN;_Promote the security and health of the Cardano mainnet._
-
-The OSC ensures that open source policies guide contributions to be at the highest quality possible by closely monitoring improvements and new directions in open source development.
-
-This is important because new or revised practices can and will be included in future adaptations of the Governance policy ensuring the quality of Cardano’s development remains efficient and above reproach.
-
-**Citizenship:**\
-\&#xNAN;_Foster good Open Source citizens._
-
-The OSC creates an open and clear path for contributors in the COSP, including a Contribution Ladder, a Project Incubation strategy, and methods to address low hanging fruit such as how to file an Issue, make Pull Requests, and much more.
-
-This is important because we want the COSP to adopt a revolutionary model in the open-source world, in which contributors take the time to contribute to the broader ecosystem.
-
-### Operating Procedures
-
-#### Discussions
-
-Chair’s Role:
-
-* Opens the meeting by presenting the agenda.
-* Facilitates the discussion by ensuring all voices are heard.
-* Maintains focus on the agenda topics, preventing digressions.
-* Summarizes key points and transitions discussions to the next topic.
-
-Vice-Chair’s Role:
-
-* Assists the Chair by monitoring time and tracking discussion progress.
-* Steps in to facilitate the discussion if the Chair is unavailable.
-* Helps mediate conflicts or differences in opinions.
-
-Secretary:
-
-* Maintain and work closely with Chair and Vice Chair to create the Agenda.
-* Monitor speaking turns and assist the Chair to address time limits for comments.
-* Compile and post Meeting Recordings and Minutes on GitBook/YouTube.
-
-Committee Member (Seats):
-
-* Actively participate by presenting ideas, asking questions, and contributing to discussions.
-* Respect speaking turns and adhere to agreed-upon time limits for comments.
-
-#### Meeting Rules of Order
-
-Robert's Rules of Order (Adapted for Simplicity): [Intersect’s Robert’s Rules](https://docs.intersectmbo.org/legal/policies-and-conditions/roberts-rules-of-order-simplified)
-
-* Quorum Requirement:
-  * Minimum number of members (e.g., 50% + 1) must be present to make decisions.
-* Speaking Order:
-  * Members request to speak by raising a hand (virtually or physically).
-  * The chair recognizes speakers in turn.
-* Time Management:
-  * Limit individual speaking time to avoid monopolizing discussions.
-  * Allocate time for each agenda item.
-* Code of Conduct:
-  * Respectful communication is mandatory.
-  * Zero tolerance for harassment or discrimination.
-  * The OSC aligns with Intersect’s [Code of Conduct](https://docs.intersectmbo.org/legal/policies-and-conditions/code-of-conduct). Questions? Contact: [conduct@intersectmbo.org](mailto:conduct@intersectmbo.org) or [oso@intersectmbo.org](mailto:oso@intersectmbo.org)
-
-#### Ways of Working
-
-* Regularly scheduled meetings (bi-weekly), with flexibility for urgent sessions.
-* Clear start and end times to respect members’ availability.
-* Collaboration Tools: G-Drive, Slack, Discord, Clickup
-* Agenda available 48 hours in advance. (Clickup)
-* Members review materials and come prepared with feedback. (G-Drive)
-* Meetings are open with recordings made publicly accessible. (YouTube)
-
-#### Decision Making Structure
-
-* Consensus First:
-  * Aim for unanimous agreement by discussing concerns and finding common ground.
-* Voting:
-  * Simple Majority: Used for most decisions (e.g., 50% + 1 of members)
-* Process:
-  * Chair calls for a motion to vote.
-  * Motion is seconded by another member. (optional)
-  * Members vote (e.g., verbally, show of hands, or electronic poll).
-  * Chair announces the results.
-* Documentation:
-  * All decisions are recorded in meeting minutes, including the rationale for decisions and any dissenting opinions.
-
-#### Voting
-
-* In Person or Video Meeting Voting Procedures:
-  * All topics on which the OSC will take a vote will need a simple committee majority tallied during the meeting in which the OSC convenes, tally and action to be recorded by the Secretary.
-* Offline Voting Procedures:
-  * All topics on which the OSC will take a vote will need a simple committee majority tallied based on the medium on which the OSC chooses.
-* No Vote:
-  * In the event of a no vote or insufficient vote, topics or items will then be shelved or facilitated to revision based on the nature of the vote.
-
-A vote by a committee should be considered binding if it receives a simple majority of positive votes from a quorum consisting of at least two thirds of the committee members being present and participating in the vote
-
-#### Roles / Responsibilities
-
-| Role                 | Nominee                                                             | Responsibility                                                                                                                                            |
-| -------------------- | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chair                | Pedro Lucas                                                         | Serve as agenda setter, moving the committee in direction of it’s assigned or agreed objectives, representing the committee to ISC                        |
-| Vice Chair           | Adam Dean                                                           | Support the chair in the same capacity and serve as delegate if chair unavailable                                                                         |
-| Secretary            | Tex                                                                 | Serves as liaison for committee, taking minutes, publications, and admin                                                                                  |
-| Seats                | Georg, Robin, Moritz, Johnny, Sebastian, Christian, Sandip, Nicolas | Serve as decision body composition, analysis work, and contribution to committee directly                                                                 |
-| External Member Base | OSC is open to the public.                                          | Follow-OSC on all social channels to include X and YouTube. Questions and Comments may be allowed during meetings as they add to the relevant discussion. |
+<p align="center"><a href="/broken/pages/vVgWWKr3iU4LoA2wGSfr">Archived pages</a></p>
