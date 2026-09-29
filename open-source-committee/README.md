@@ -2,9 +2,11 @@
 
 <p align="center">The Open Source Committee exists to support Cardano, as an Open Source project, and to provide guidance, support, and oversight for Intersect's open source initiativest.</p>
 
-<p align="center">We facilitate and oversee. Cardano's governance depends on work that nobody is obliged to do: the Constitution had to be consulted on, Constitutional Committee seats have to be refilled when they expire, tooling has to be maintained and paid for. We make sure that work has a mandate, a process, the people to do it, and someone seeing it through to the end.</p>
+The Open Source Committee envisions a future where the Cardano Open Source Project (COSP) is strongly led by a thriving and diverse community, with its development process free from dominance by any single entity.
 
-<h4 align="center">About the Civics Committee</h4>
+We foresee a future where the project is known for both its technological excellence and its democratic, inclusive development process. Cardano will exemplify a decentralized and stable ecosystem where every contributor plays its part.
+
+<h4 align="center">About the Open Source Committee</h4>
 
 <table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Who sits on the committee, and when each term rotates.</td><td><a href="about/readme/committee-members.md">committee-members.md</a></td><td><a href=".gitbook/assets/1.png">1.png</a></td></tr><tr><td>What each current group was set up to do, what it delivered, and whether it is still running.</td><td><a href="https://app.gitbook.com/s/LBdnzp0eZpGri9sVpseI/working-groups">Working Groups</a></td><td><a href=".gitbook/assets/3.png">3.png</a></td></tr><tr><td>Observe a meeting, join a working group, or stand for election.</td><td><a href="about/readme/osc-engagement.md">osc-engagement.md</a></td><td><a href=".gitbook/assets/4.png">4.png</a></td></tr></tbody></table>
 
