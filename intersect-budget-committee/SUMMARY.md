@@ -22,6 +22,8 @@
 * [2026 Meeting Notes](committee-meeting-notes/2026-meeting-notes/README.md)
   * [DRep Responses](committee-meeting-notes/2026-meeting-notes/drep-responses.md)
   * [Budget Committee Weekly Meetings](committee-meeting-notes/2026-meeting-notes/budget-committee-weekly-meetings/README.md)
+    * [August 17th, 2026 Budget Comm Minutes](committee-meeting-notes/2026-meeting-notes/budget-committee-weekly-meetings/august-17th-2026-budget-comm-minutes.md)
+    * [August 10th, 2026 Budget Comm Minutes](committee-meeting-notes/2026-meeting-notes/budget-committee-weekly-meetings/august-10th-2026-budget-comm-minutes.md)
     * [August 3rd, 2026 Budget Comm Minutes](committee-meeting-notes/2026-meeting-notes/budget-committee-weekly-meetings/august-3rd-2026-budget-comm-minutes.md)
     * [June 8th, 2026 Budget Comm Minutes](committee-meeting-notes/2026-meeting-notes/budget-committee-weekly-meetings/june-8th-2026-budget-comm-minutes.md)
     * [June 1st, 2026 Budget Comm Minutes](committee-meeting-notes/2026-meeting-notes/budget-committee-weekly-meetings/june-1st-2026-budget-comm-minutes.md)
