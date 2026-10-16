@@ -16,12 +16,13 @@
 * [Budget Proposal Submission Template (Download)](cardano-budget-process/budget-proposal-submission-template-download.md)
 * [Budget Process Timeline](https://docs.intersectmbo.org/intersect-knowledge-base/cardano-facilitation-services/cardano-budget-2026/2026-budget-process-timeline)
 * [Intersect Hydra-Voting - Tool](https://hydra-voting.intersectmbo.org/)
+* [DRep Responses](cardano-budget-process/drep-responses.md)
 
 ## Committee Meeting Notes
 
 * [2026 Meeting Notes](committee-meeting-notes/2026-meeting-notes/README.md)
-  * [DRep Responses](committee-meeting-notes/2026-meeting-notes/drep-responses.md)
   * [Budget Committee Weekly Meetings](committee-meeting-notes/2026-meeting-notes/budget-committee-weekly-meetings/README.md)
+    * [October 12th, 2026 Budget Comm Minutes](committee-meeting-notes/2026-meeting-notes/budget-committee-weekly-meetings/october-12th-2026-budget-comm-minutes.md)
     * [October 5th, 2026 Budget Comm Minutes](committee-meeting-notes/2026-meeting-notes/budget-committee-weekly-meetings/october-5th-2026-budget-comm-minutes.md)
     * [September 14th, 2026 Budget Comm Minutes](committee-meeting-notes/2026-meeting-notes/budget-committee-weekly-meetings/september-14th-2026-budget-comm-minutes.md)
     * [August 31st, 2026 Budget Comm Minutes](committee-meeting-notes/2026-meeting-notes/budget-committee-weekly-meetings/august-31st-2026-budget-comm-minutes.md)
