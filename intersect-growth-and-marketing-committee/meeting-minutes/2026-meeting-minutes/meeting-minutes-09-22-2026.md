@@ -2,19 +2,7 @@
 
 ## Attendees:&#x20;
 
-| Name               | Attendance | Role       | Voting Seat (Y/N) | Election Cycle |
-| ------------------ | ---------- | ---------- | ----------------- | -------------- |
-| Laura Mattiucci    | Yes        | Chair      | Y                 | April 2028     |
-| Marco Moshi        | Yes        | Vice Chair | Y                 | April 2028     |
-| Lara Bonasorte     | Yes        | Secretary  | N                 | N/A            |
-| Andy Hung          | No         | Member     | Y                 | April 2028     |
-| Alexa C. aka Thyme | Yes        | Member     | Y                 | April 2028     |
-| Josefine Birkigt   | Yes        | Member     | Y                 | April 2028     |
-| Maggie Schmidt     | No         | Member     | Y                 | April 2027     |
-| Otavio Lima        | No         | Member     | Y                 | April 2027     |
-| Reshan Fernando    | No         | Member     | Y                 | April 2027     |
-| Wes Parkinson      | Yes        | Member     | Y                 | April 2027     |
-| Yoram Ben Zvi      | Yes        | Member     | Y                 | April 2027     |
+<table data-header-hidden><thead><tr><th width="178.19140625"></th><th width="115.171875" align="center"></th><th width="119.8671875" align="center"></th><th align="center"></th><th></th></tr></thead><tbody><tr><td>Name</td><td align="center">Attendance</td><td align="center">Role</td><td align="center">Voting Seat (Y/N)</td><td>Election Cycle</td></tr><tr><td>Laura Mattiucci </td><td align="center">Yes</td><td align="center">Chair</td><td align="center">Y</td><td>April 2028</td></tr><tr><td>Marco Moshi</td><td align="center">Yes</td><td align="center">Vice Chair</td><td align="center">Y</td><td>April 2028</td></tr><tr><td>Lara Bonasorte</td><td align="center">Yes</td><td align="center">Secretary</td><td align="center">N</td><td>N/A</td></tr><tr><td>Andy Hung</td><td align="center">No</td><td align="center">Member</td><td align="center">Y</td><td>April 2028</td></tr><tr><td>Alexa C. aka Thyme</td><td align="center">Yes</td><td align="center">Member</td><td align="center">Y</td><td>April 2028</td></tr><tr><td>Josefine Birkigt</td><td align="center">Yes</td><td align="center">Member</td><td align="center">Y</td><td>April 2028</td></tr><tr><td>Maggie Schmidt</td><td align="center">No</td><td align="center">Member</td><td align="center">Y</td><td>April 2027</td></tr><tr><td>Otavio Lima</td><td align="center">No</td><td align="center">Member</td><td align="center">Y</td><td>April 2027</td></tr><tr><td>Reshan Fernando</td><td align="center">No</td><td align="center">Member </td><td align="center">Y</td><td>April 2027</td></tr><tr><td>Wes Parkinson</td><td align="center">Yes</td><td align="center">Member </td><td align="center">Y</td><td>April 2027</td></tr><tr><td>Yoram Ben Zvi</td><td align="center">Yes</td><td align="center">Member</td><td align="center">Y</td><td>April 2027</td></tr></tbody></table>
 
 Other Guests:&#x20;
 
