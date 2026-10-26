@@ -5,67 +5,50 @@ description: >-
   Cardano network.
 ---
 
-# 🫢 Bug Bounty Program
+# 🫢 Bug Bounty Program v2.0
 
 {% hint style="info" %}
-The Bug Bounty Program has currently used all of its allocated funds, and we are unable to offer monetary rewards for new vulnerability submissions at this time.&#x20;
+The Bug Bounty Program has been a true success, becoming a valuable asset for the Cardano ecosystem.  However, all of the originally allocated funds have been spent. The Open Source Committee has carefully reviewed actual spend (calculated in USD) and found that less than half of the targeted rewards were provided with the allotted funds. As the end of the 2025 Budget Term approaches, the OSC reviewed funding across all programs and found that additional funding could be re-allocated to the Bug Bounty Program. Below is a revised program narrative, featuring improvements and clarifications from the Security Council with regards to the type of reports that warrant a bounty.  &#x20;
 
-We continue to strongly encourage members of the community to submit vulnerability reports through our standard channels — every submission is carefully reviewed and triaged by our security team, and valid findings will be addressed accordingly.&#x20;
+We therefore continue to strongly encourage members of the community to submit vulnerability reports through our standard channels — every submission is carefully reviewed and triaged by our security team, and valid findings will be addressed accordingly.
 
 We appreciate the community's continued diligence in helping keep the ecosystem secure, and will provide an update if and when additional funding becomes available.
 {% endhint %}
 
-{% hint style="info" %}
-Changes 3 August: Updates about Bug Bounty Program funding and ongoing vulnerability reporting.&#x20;
-{% endhint %}
-
-{% hint style="info" %}
-Changes 14 July 2026: Minor formatting edits, cardano-world(Public Archive), plutus-script-evaluation (removed at OSC discretion due to project scope)
-{% endhint %}
-
 #### Executive Summary
 
-The Bug Bounty Program is designed to enhance the security of the ecosystem by incentivizing ethical hackers and security researchers to identify and responsibly disclose vulnerabilities. With a $300,000 budget for year 1, the program provides structured rewards based on severity and impact, ensuring proactive security measures while maintaining transparency and accountability.
+The Bug Bounty Program is designed to enhance the security of the ecosystem by incentivizing ethical hackers and security researchers to identify and responsibly disclose vulnerabilities. With a \~$300,000 budget for year 1, the program provides structured rewards based on severity and impact, ensuring proactive security measures while maintaining transparency and accountability.
+
+**Note:** Between September 2025 and July 2026 the ADA rate (when compared to USD) fluctuated quite drastically and often. Coupled with a high rate of demand,this resulted in the available rewards being exhausted earlier than expected. As of July 2026, all of the ADA earmarked for Bug Bounties from the original budget had been spent, \~112k USD. The OSC has agreed to extend an additional \~150k USD sourced from the Maintainer Retainer program’s earmarked, but unallocated, Budget. While the Maintainer Retainer program has successfully provided funding for 20+ maintainers (carrying into 2027) supporting core and community projects, it has not experienced the same level of demand as the Bug Bounty program and the OSC therefore proposed and agreed to reallocate these unused funds.
 
 The program operates under a three-tier governance model:
 
 * Security Council – Handles incident management, vulnerability validation, and remediation efforts.
 * Open Source Committee – Serves as a review-only body, providing oversight without execution authority, but validates the payment allocation.
-* Open Source Office – Manages program execution, rewards distribution, and compliance.
+* Open Source Office (Cardano Tech Team) – Manages program execution, rewards distribution, and compliance.
 
 #### Key Features of the Bug Bounty Program:
 
-* Structured reward tiers: Payments range from $20,000 to $1,000 based on severity (Critical, High, Medium, Low).
-* Clear reporting process: Researchers must provide detailed reports with proof of concept for validation.
-* Responsible disclosure policy: Participants must follow strict guidelines to ensure ethical vulnerability reporting.
-* Rapid response timelines: The Security Council will validate reports within 7-14 days and deploy fixes based on severity.
-* Transparent reward distribution: Payments are processed within 30 days of validation, with multiple payout options (ADA, USDC, or fiat).
+* Structured reward tiers: Payments typically range from $1,000 to $10,000 based on severity (Medium, High, and Critical).
+  * Low value security items are considered to be ‘Maintenance’, most of the issues reported with a Low severity are qualified to be public issues within the reported repository/project.
+  * Payments are made at Intersect’s discretion, subject to available budget and priorities, and will not be made for out-of-scope items.
+* Clear reporting process: Researchers must provide detailed reports including: a detailed summary, proof of concept (manually reproduced) and security impact for validation.
+* Responsible disclosure policy: Participants must follow strict guidelines to ensure ethical vulnerability reporting. Submitting a GHSA is the preferred format for report submissions. In the event that the GHSA form is inaccessible, a specific note should be added to the report. We further ask the reporter to CC: [security@intersectmbo.org](mailto:security@intersectmbo.org) to advise of the reporting limitation.
+* Rapid response timelines: The Security Council aims to validate reports within 7-14 days and to subsequently deploy fixes to production. This response is based on overall severity, risk and capacity.
+* Transparent reward distribution: Wherever possible, payments are processed within 30 working days of validation, with multiple payout options (ADA or fiat).
 * Continuous improvement: Regular program audits, budget optimizations, and community engagement initiatives will ensure long-term success.
 
 By implementing this structured and well-governed bug bounty program, the ecosystem strengthens its security resilience, fosters community participation, and upholds ethical vulnerability management practices.
 
-{% hint style="info" %}
-The Bug Bounty Program funding has been fully utilized, OSC has agreed to close the "funded" portion of this program Effective July 23, 2026 (OSC Decision in meeting). [7.23.26 Minutes](https://opensourcecommittee.docs.intersectmbo.org/osc-meeting-minutes/open-source-committee-meeting-minutes/2026-meeting-minutes/07-23-2026-meeting-minutes)
-{% endhint %}
-
 ### 1. Program Scope and Coverage
 
-This section defines the boundaries of the bug bounty program, specifying which systems are eligible for testing and which activities are prohibited to ensure ethical participation.\
-\
-_**Please note:**_ The scope of this program is limited to components and codebases maintained or supported by Intersect. Vulnerabilities in third-party applications, such as smart contracts powering decentralized applications (DApps), are out of scope
+This section defines the boundaries of the bug bounty program, specifying which systems are eligible for testing and which activities are prohibited to ensure ethical participation.
 
 #### 1.1 Systems and Assets in Scope
 
 The bug bounty program applies to critical infrastructure and software components that are essential to the security and stability of the Cardano ecosystem.\
 \
-_**Clarification: Intersect specific websites, domains, programs, or assets will not be covered under this bounty program.**_
-
-**Eligible Targets:**
-
-* Core Infrastructure – Systems directly supporting the network, including validator nodes and backend services.
-* Smart Contracts & Blockchain Components – As applicable by SC review smart contract deployed on the blockchain.
-* APIs & Web Applications – Public-facing APIs, developer tools, and user interfaces.
-* Open-Source Repositories – Codebases managed by Intersect and other authorized repositories.
+**Clarification:** _Intersect specific websites, domains, programs, or assets will not be covered under this bounty program._
 
 **Exclusions within In-Scope Assets:**
 
@@ -90,24 +73,30 @@ To prevent abuse and ensure ethical participation, certain activities and target
 * Publicly known issues (e.g., vulnerabilities already disclosed in security bulletins).
 * Theoretical attacks without proof of exploitability.
 * Bugs that require extensive user cooperation (e.g., social engineering-based exploits).
+* Bugs that have previously been reported.
 
 #### 1.3 Projects that are covered under this program:
 
 The below list is general reference and is not comprehensive to which projects are covered under this program:
 
-|                                                                                                                      |                                                                                                                  |                                                                                                                                |
-| -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| [https://github.com/IntersectMBO/cardano-node](https://github.com/IntersectMBO/cardano-node)                         | [https://github.com/IntersectMBO/cardano-ledger](https://github.com/IntersectMBO/cardano-ledger)                 | [https://github.com/IntersectMBO/cardano-cli](https://github.com/IntersectMBO/cardano-cli)                                     |
-| [https://github.com/IntersectMBO/cardano-node-tests](https://github.com/IntersectMBO/cardano-node-tests)             | [https://github.com/IntersectMBO/cardano-api](https://github.com/IntersectMBO/cardano-api)                       | [https://github.com/IntersectMBO/cardano-db-sync](https://github.com/IntersectMBO/cardano-db-sync)                             |
-| [https://github.com/IntersectMBO/cardano-base](https://github.com/IntersectMBO/cardano-base)                         | [https://github.com/IntersectMBO/ouroboros-network](https://github.com/IntersectMBO/ouroboros-network)           | [https://github.com/IntersectMBO/ouroboros-consensus](https://github.com/IntersectMBO/ouroboros-consensus)                     |
-| [https://github.com/IntersectMBO/cardonnay](https://github.com/IntersectMBO/cardonnay)                               | [https://github.com/IntersectMBO/dmq-node](https://github.com/IntersectMBO/dmq-node)                             | [https://github.com/IntersectMBO/formal-ledger-specifications](https://github.com/IntersectMBO/formal-ledger-specifications)   |
-| [https://github.com/IntersectMBO/evolution-sdk](https://github.com/IntersectMBO/evolution-sdk)                       | [https://github.com/IntersectMBO/lsm-tree](https://github.com/IntersectMBO/lsm-tree)                             | [https://github.com/IntersectMBO/cardano-node-emulator](https://github.com/IntersectMBO/cardano-node-emulator)                 |
-| [https://github.com/IntersectMBO/cardano-haskell-packages](https://github.com/IntersectMBO/cardano-haskell-packages) | [https://github.com/IntersectMBO/cardano-sync-tests](https://github.com/IntersectMBO/cardano-sync-tests)         | [https://github.com/IntersectMBO/UPLC-CAPE](https://github.com/IntersectMBO/UPLC-CAPE)                                         |
-| [https://github.com/IntersectMBO/cardano-airgap](https://github.com/IntersectMBO/cardano-airgap)                     | [https://github.com/IntersectMBO/cardano-addresses](https://github.com/IntersectMBO/cardano-addresses)           | [https://github.com/IntersectMBO/cardano-formal-specifications](https://github.com/IntersectMBO/cardano-formal-specifications) |
-| [https://github.com/IntersectMBO/io-classes-extra](https://github.com/IntersectMBO/io-classes-extra)                 | [https://github.com/IntersectMBO/Win32-network](https://github.com/IntersectMBO/Win32-network)                   | [https://github.com/IntersectMBO/cardano-transactions](https://github.com/IntersectMBO/cardano-transactions)                   |
-| n/a                                                                                                                  | [https://github.com/IntersectMBO/cardaminal](https://github.com/IntersectMBO/cardaminal)                         | [https://github.com/IntersectMBO/plutus](https://github.com/IntersectMBO/plutus)                                               |
-| [https://github.com/IntersectMBO/cardano-prelude](https://github.com/IntersectMBO/cardano-prelude)                   | [https://github.com/IntersectMBO/antaeus](https://github.com/IntersectMBO/antaeus)                               | [https://github.com/IntersectMBO/cardano-crypto](https://github.com/IntersectMBO/cardano-crypto)                               |
-| [https://github.com/IntersectMBO/bech32](https://github.com/IntersectMBO/bech32)                                     | [https://github.com/IntersectMBO/cardano-coin-selection](https://github.com/IntersectMBO/cardano-coin-selection) | [https://github.com/IntersectMBO/credential-manager](https://github.com/IntersectMBO/credential-manager)                       |
+| [https://github.com/IntersectMBO/antaeus](https://github.com/IntersectMBO/antaeus)                                                | [https://github.com/IntersectMBO/cardano-keys](https://github.com/IntersectMBO/cardano-keys)                                    | [https://github.com/IntersectMBO/io-classes-extra](https://github.com/IntersectMBO/io-classes-extra)       |
+| --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| [https://github.com/IntersectMBO/bech32](https://github.com/IntersectMBO/bech32)                                                  | [https://github.com/IntersectMBO/cardano-ledger](https://github.com/IntersectMBO/cardano-ledger)                                | [https://github.com/IntersectMBO/io-sim](https://github.com/IntersectMBO/io-sim)                           |
+| [https://github.com/IntersectMBO/cardano-addresses](https://github.com/IntersectMBO/cardano-addresses)                            | [https://github.com/IntersectMBO/cardano-node](https://github.com/IntersectMBO/cardano-node)                                    | [https://github.com/IntersectMBO/libsodium](https://github.com/IntersectMBO/libsodium) \*\*                |
+| [https://github.com/IntersectMBO/cardano-airgap](https://github.com/IntersectMBO/cardano-airgap)                                  | [https://github.com/IntersectMBO/cardano-node-emulator](https://github.com/IntersectMBO/cardano-node-emulator)                  | [https://github.com/IntersectMBO/lsm-tree](https://github.com/IntersectMBO/lsm-tree)                       |
+| [https://github.com/IntersectMBO/cardano-api](https://github.com/IntersectMBO/cardano-api)                                        | [https://github.com/IntersectMBO/cardano-prelude](https://github.com/IntersectMBO/cardano-prelude)                              | [https://github.com/IntersectMBO/mithril](https://github.com/IntersectMBO/mithril)                         |
+| [https://github.com/IntersectMBO/cardano-base](https://github.com/IntersectMBO/cardano-base)                                      | [https://github.com/IntersectMBO/cardano-sieve](https://github.com/IntersectMBO/cardano-sieve)                                  | [https://github.com/IntersectMBO/ouroboros-consensus](https://github.com/IntersectMBO/ouroboros-consensus) |
+| [https://github.com/IntersectMBO/cardano-cli](https://github.com/IntersectMBO/cardano-cli)                                        | [https://github.com/IntersectMBO/cardano-transactions](https://github.com/IntersectMBO/cardano-transactions)                    | [https://github.com/IntersectMBO/ouroboros-network](https://github.com/IntersectMBO/ouroboros-network)     |
+| [https://github.com/IntersectMBO/cardano-coin-selection](https://github.com/IntersectMBO/cardano-coin-selection)                  | [https://github.com/IntersectMBO/dmq-node](https://github.com/IntersectMBO/dmq-node)                                            | [https://github.com/IntersectMBO/plinth-template](https://github.com/IntersectMBO/plinth-template)         |
+| [https://github.com/IntersectMBO/cardano-config](https://github.com/IntersectMBO/cardano-config)                                  | [https://github.com/IntersectMBO/essential-cardano](https://github.com/IntersectMBO/essential-cardano)                          | [https://github.com/IntersectMBO/plutus](https://github.com/IntersectMBO/plutus)                           |
+| [https://github.com/IntersectMBO/cardano-crypto](https://github.com/IntersectMBO/cardano-crypto)                                  | [https://github.com/IntersectMBO/evolution-sdk](https://github.com/IntersectMBO/evolution-sdk)                                  | [https://github.com/IntersectMBO/typed-protocols](https://github.com/IntersectMBO/typed-protocols)         |
+| [https://github.com/IntersectMBO/cardano-db-sync](https://github.com/IntersectMBO/cardano-db-sync)                                | [https://github.com/IntersectMBO/formal-ledger-specifications](https://github.com/IntersectMBO/formal-ledger-specifications) \* | [https://github.com/IntersectMBO/UPLC-CAPE](https://github.com/IntersectMBO/UPLC-CAPE)                     |
+| [https://github.com/IntersectMBO/cardano-formal-specifications](https://github.com/IntersectMBO/cardano-formal-specifications) \* | [https://github.com/IntersectMBO/hermod-trace-forwarding](https://github.com/IntersectMBO/hermod-trace-forwarding)              | [https://github.com/IntersectMBO/Win32-network](https://github.com/IntersectMBO/Win32-network)             |
+| [https://github.com/IntersectMBO/cardano-haskell-packages](https://github.com/IntersectMBO/cardano-haskell-packages)              | [https://github.com/IntersectMBO/hermod-tracing](https://github.com/IntersectMBO/hermod-tracing)                                | <p><br></p>                                                                                                |
+
+\*: **Specification** projects define the rules by which the Cardano blockchain operates. Security reports against these repositories are eligible when they identify a flaw in the specification itself, for example a protocol rule that, if implemented as written, would allow a double spend. Issues with how a specification is built, run, or tested in a development environment are out of scope.&#x20;
+
+\*\*: **libsodium** Cardano uses a fork of libsodium that includes features specific to Cardano’s cryptography. Vulnerabilities in this fork are eligible for the Bug Bounty Program if they affect Cardano, meaning they exist in code Cardano relies on and could impact the security of the network or its users. Reports about functionality Cardano does not use are out of scope.
 
 ### 2.0 Vulnerability Classification and Reward Structure
 
@@ -136,18 +125,13 @@ These severity levels are evaluated according to the [https://www.first.org/cvss
 #### 2.2 Reward Tiers and Payouts
 
 Each severity level has a corresponding reward range, ensuring fair compensation based on impact. These ranges serve as a guidance and does wholly reflect an award, as each issue or big incident may justify a higher bounty depending on level of threat.\
-_&#x54;he Security Council and the Open Source Committee may choose to issue awards higher than $20,000 guided range depending on multifactor assessments._
+_&#x54;he Security Council and the Open Source Committee may choose to issue awards higher than $10,000 guided range depending on multifactor assessments._
 
 | Severity Level | Anticipated Reward Range |
 | -------------- | ------------------------ |
-| Critical       | $10,000 - $20,000        |
-| High           | $5,000 - $10,000         |
-| Medium         | $1,000 - $5,000          |
-| Low            | Up to $1,000             |
-
-{% hint style="info" %}
-See above: Funding for the current Bug Bounty Program has been fully expended.&#x20;
-{% endhint %}
+| Critical       | $5,000 - $10,000         |
+| High           | $1,000 - $5,000          |
+| Medium         | Up to $1,000             |
 
 **Factors Affecting Payout Amounts:**
 
@@ -162,7 +146,8 @@ To maintain the program’s longevity, funds are allocated strategically through
 
 **Budget Allocation Strategy:**
 
-* $300,000 total pool for year 1, distributed based on reported vulnerabilities.
+* ~~$300,000 total pool for year 1, distributed based on reported vulnerabilities.~~
+* 600,000ADA total pool for year 1, distributed based on reported vulnerabilities. Additional 700,000ADA re-allocated by OSC to continue rewards up to the desired USD figure, despite fluctuations in the price of ADA.
 * Quarterly evaluations to assess program engagement and adjust payouts if needed.
 * Emergency reserve allocation for handling high-impact security incidents.
 * Roll-over funds policy – Unused funds can be shifted to subsequent program periods or returned to the treasury as overall budgetary policy dictates.
@@ -170,10 +155,6 @@ To maintain the program’s longevity, funds are allocated strategically through
 ### 3.0 Reporting and Validation Process
 
 This section outlines how security researchers should report vulnerabilities, the steps for validation, and the expected response times from the Security Council.
-
-{% hint style="info" %}
-Vulnerability reporting is still encouraged to protect the Cardano Blockchain (specifically the Haskell Node and related repositories). Although funding for Bug Bounties is not currently available, the Security Council will still provide assessments and coordinate vulnerability fixes.&#x20;
-{% endhint %}
 
 #### 3.1 Vulnerability Submission Guidelines
 
@@ -188,7 +169,7 @@ A report must include the following details:
 1. Title – A concise name for the vulnerability.
 2. Description – A clear explanation of the security issue and its impact.
 3. Steps to Reproduce – A detailed, step-by-step guide demonstrating how to exploit the vulnerability.
-4. Proof of Concept (PoC) – A working example showing exploitability (e.g., scripts, screenshots, or video walkthroughs).
+4. Proof of Concept (PoC) – A manually run, working example showing exploitability (e.g., scripts, screenshots, or video walkthroughs).
 5. Affected Component – Specify which system, smart contract, API, or software is vulnerable.
 6. Suggested Remediation – If possible, provide recommendations on how to fix the issue.
 
@@ -196,7 +177,7 @@ A report must include the following details:
 
 * Reports must be original and unpublished at the time of submission.
 * Researchers must not publicly disclose the vulnerability before the issue is patched.
-* Automated scanning or brute-force techniques that degrade system performance are prohibited.
+* **Automated scanning** or brute-force techniques that degrade system performance are prohibited.
 
 #### 3.2 Validation and Prioritization
 
@@ -205,7 +186,7 @@ Once a vulnerability is submitted, it goes through the Security Council’s vali
 **Validation Steps:**
 
 1. Acknowledgment – Initial confirmation of submission within 24 hours.
-2. Triage and Reproduction – The Security Council attempts to reproduce the issue within 3-7 days, depending on complexity.
+2. Triage and Reproduction – The Security Council attempts to reproduce the issue within 7-14 days, depending on complexity.
 3. Severity Classification – The issue is assigned a CVSS Score and categorized.
 4. Fix Deployment Planning – The Security Council coordinates with developers to determine a remediation timeline.
 5. Researcher Notification – The submitter is informed of classification and next steps.
