@@ -1,6 +1,5 @@
 ---
 description: A report for ADA holders on how the ecosystem grows in the DeFi vertical
-hidden: true
 ---
 
 # Growing Cardano DeFi
