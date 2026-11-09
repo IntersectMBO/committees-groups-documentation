@@ -78,7 +78,7 @@
     * [(12/03/2026) Meeting Minutes](osc-meeting-minutes/open-source-committee-meeting-minutes/2026-meeting-minutes/12-03-2026-meeting-minutes.md)
     * [(11/19/2026) Meeting Minutes](osc-meeting-minutes/open-source-committee-meeting-minutes/2026-meeting-minutes/11-19-2026-meeting-minutes.md)
     * [(11/12/2026) Meeting Minutes](osc-meeting-minutes/open-source-committee-meeting-minutes/2026-meeting-minutes/11-12-2026-meeting-minutes.md)
-    * [(10/29/2026) Meeting Minutes](osc-meeting-minutes/open-source-committee-meeting-minutes/2026-meeting-minutes/10-29-2026-meeting-minutes.md)
+    * [(10/28/2026) Meeting Minutes](osc-meeting-minutes/open-source-committee-meeting-minutes/2026-meeting-minutes/10-29-2026-meeting-minutes.md)
     * [(10/15/2026) Meeting Minutes](osc-meeting-minutes/open-source-committee-meeting-minutes/2026-meeting-minutes/10-15-2026-meeting-minutes.md)
     * [(10/01/2026) Meeting Minutes](osc-meeting-minutes/open-source-committee-meeting-minutes/2026-meeting-minutes/10-01-2026-meeting-minutes.md)
     * [(09/17/2026) Meeting Minutes](osc-meeting-minutes/open-source-committee-meeting-minutes/2026-meeting-minutes/09-17-2026-meeting-minutes.md)
