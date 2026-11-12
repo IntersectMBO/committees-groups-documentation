@@ -1,11 +1,11 @@
 # 🤓 Maintainer Retainer
 
 {% hint style="info" %}
-Applications for Community Projects to be maintained are open! [https://tinyurl.com/MRP-Projects](https://tinyurl.com/MRP-Projects)
+Applications for Community Projects to be maintained are closed! The link remains available for Milestone review.  [https://tinyurl.com/MRP-Projects](https://tinyurl.com/MRP-Projects)
 {% endhint %}
 
 {% hint style="info" %}
-Applications are open for Developers>Community Maintainers! [https://tinyurl.com/MRP-Apply](https://tinyurl.com/MRP-Apply)
+Applications are closed for Developers>Community Maintainers! The link remains available for Milestone review. [https://tinyurl.com/MRP-Apply](https://tinyurl.com/MRP-Apply)
 {% endhint %}
 
 ## Executive Summary
