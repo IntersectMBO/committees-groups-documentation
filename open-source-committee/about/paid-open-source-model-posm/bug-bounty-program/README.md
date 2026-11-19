@@ -8,7 +8,11 @@ description: >-
 # 🫢 Bug Bounty Program v2.0
 
 {% hint style="info" %}
-The Bug Bounty Program has been a true success, becoming a valuable asset for the Cardano ecosystem.  However, all of the originally allocated funds have been spent. The Open Source Committee has carefully reviewed actual spend (calculated in USD) and found that less than half of the targeted rewards were provided with the allotted funds. As the end of the 2025 Budget Term approaches, the OSC reviewed funding across all programs and found that additional funding could be re-allocated to the Bug Bounty Program. Below is a revised program narrative, featuring improvements and clarifications from the Security Council with regards to the type of reports that warrant a bounty.  &#x20;
+Any potential rewards are subject to approval by the Administrator.&#x20;
+{% endhint %}
+
+{% hint style="info" %}
+The Bug Bounty Program has been a true success, becoming a valuable asset for the Cardano ecosystem.  However, all of the originally allocated funds have been spent. The Open Source Committee has carefully reviewed actual spend (calculated in USD) and found that less than half of the targeted rewards were provided with the allotted funds. As the end of the 2025 Budget Term approaches, the OSC reviewed funding across all programs and found that additional funding could be re-allocated to the Bug Bounty Program.   &#x20;
 
 We therefore continue to strongly encourage members of the community to submit vulnerability reports through our standard channels — every submission is carefully reviewed and triaged by our security team, and valid findings will be addressed accordingly.
 
@@ -18,8 +22,6 @@ We appreciate the community's continued diligence in helping keep the ecosystem 
 #### Executive Summary
 
 The Bug Bounty Program is designed to enhance the security of the ecosystem by incentivizing ethical hackers and security researchers to identify and responsibly disclose vulnerabilities. With a \~$300,000 budget for year 1, the program provides structured rewards based on severity and impact, ensuring proactive security measures while maintaining transparency and accountability.
-
-**Note:** Between September 2025 and July 2026 the ADA rate (when compared to USD) fluctuated quite drastically and often. Coupled with a high rate of demand,this resulted in the available rewards being exhausted earlier than expected. As of July 2026, all of the ADA earmarked for Bug Bounties from the original budget had been spent, \~112k USD. The OSC has agreed to extend an additional \~150k USD sourced from the Maintainer Retainer program’s earmarked, but unallocated, Budget. While the Maintainer Retainer program has successfully provided funding for 20+ maintainers (carrying into 2027) supporting core and community projects, it has not experienced the same level of demand as the Bug Bounty program and the OSC therefore proposed and agreed to reallocate these unused funds.
 
 The program operates under a three-tier governance model:
 
