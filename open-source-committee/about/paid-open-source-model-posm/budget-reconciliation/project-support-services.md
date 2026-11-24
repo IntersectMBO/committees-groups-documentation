@@ -39,4 +39,4 @@ Instead, our shared services are meant to nurture Cardano projects—supporting 
 2. **OSO Follow-Up:** A member of the OSO team will review your request and schedule a discovery session if needed.
 3. **Matching & Allocation:** We will work to match your needs with our existing provider network. If required, we will open an RFP process. The Open Source Committee (OSC) will make the final allocation decision, after which the support process will begin.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
